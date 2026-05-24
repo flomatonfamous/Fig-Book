@@ -46,19 +46,18 @@
 
 | # | Working Title | Outline | Draft | Approved | Notes |
 |---|---------------|---------|-------|----------|-------|
-| 1 | The Tree That Started Everything | APPROVED | APPROVED | **APPROVED May 24, 2026** | ~2,900 words; Randall to expand Section 4 personally |
-| 2 | A Fruit with Ancient Roots | PENDING | — | — | Needs Randall's faith-framing preference before outlining |
-| 3 | Know Your Fig | PENDING | — | — | |
-| 4 | A World of Varieties | PENDING | — | — | Includes Flavor Profiles section |
-| 5 | Choosing the Right Fig for You | PENDING | — | — | |
-| 6 | Planting and Growing Figs Right | PENDING | — | — | |
-| 7 | Feeding Your Figs | PENDING | — | — | Research notes complete — see research/fertilizer-notes.md |
-| 8 | Propagation | PENDING | — | — | Research notes complete — see research/propagation-notes.md |
-| 9 | Getting Through Winter | PENDING | — | — | |
-| 10 | Harvesting, Preserving, and Enjoying Figs | PENDING | — | — | |
-| 11 | Building a Fig Collection | PENDING | — | — | |
-| 12 | From Backyard to Business | PENDING | — | — | Flomaton Famous story — needs Randall's details |
-| 13 | Passing It On | PENDING | — | — | Closing chapter |
+| 1 | The Tree That Started Everything | APPROVED | APPROVED | **APPROVED May 24, 2026** | ~2,900 words; Randall expanding Section 4 |
+| 2 | Know Your Fig | PENDING | — | — | Next chapter — outline coming |
+| 3 | A World of Varieties + Flavor Profiles | PENDING | — | — | Needs Randall's tasting notes before drafting |
+| 4 | Choosing the Right Fig for You | PENDING | — | — | |
+| 5 | Planting and Growing Figs Right | PENDING | — | — | |
+| 6 | Feeding Your Figs | PENDING | — | — | Feed_The_Fig_v4 is primary reference |
+| 7 | Propagation — Making More of What You Love | PENDING | — | — | Research notes complete |
+| 8 | Getting Through Winter | PENDING | — | — | |
+| 9 | Harvesting, Preserving, and Enjoying Figs | PENDING | — | — | |
+| 10 | Building a Fig Collection | PENDING | — | — | |
+| 11 | From Hobby to Income — The Flomaton Famous Story | PENDING | — | — | Randall's personal journey — needs his story |
+| 12 | Passing It On | PENDING | — | — | Written last |
 
 ---
 

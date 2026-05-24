@@ -215,31 +215,35 @@ finished book may run 240–260 pages — this is acceptable and expected.
 
 ## Approved Table of Contents (LOCKED — May 24, 2026)
 
-| # | Chapter Title | Core Focus |
-|---|--------------|-----------|
-| 1 | The Tree That Started Everything | Personal intro — grandmother Mildred's Brown Turkey, family, the Alabama connection; history + biblical woven in as paragraphs |
-| 2 | A Fruit with Ancient Roots | Deep history of figs — Middle East, Egypt, Greece, Rome; the fig's journey to the American South; biblical presence woven throughout |
-| 3 | Know Your Fig | How figs actually work — biology, the wasp myth, breba vs. main crop, why figs are unique |
-| 4 | A World of Varieties | Variety overview and flavor profiles — what makes varieties different; taste, texture, color, use |
-| 5 | Choosing the Right Fig for You | Variety selection by climate, space, and goals — container vs. ground; recommendations for the South |
-| 6 | Planting and Growing Figs Right | Soil, sun, water, containers, spacing — the practical foundation |
-| 7 | Feeding Your Figs | Fertilizer deep dive — NPK explained, organic vs. synthetic, container vs. in-ground, seasonal timing |
-| 8 | Propagation — Making More of What You Love | Cuttings, air layers, grafting; nursery workflow; the fig community culture of sharing |
-| 9 | Getting Through Winter | Dormancy, cold protection, container overwintering, what zone you're really in |
-| 10 | Harvesting, Preserving, and Enjoying Figs | When to pick, how to tell ripe, preservation options, fresh eating |
-| 11 | Building a Fig Collection | The collector mindset, sourcing trees, community, FigBid, trading culture |
-| 12 | From Backyard to Business | Starting a nursery, the Flomaton Famous story, licensing, selling, shipping |
-| 13 | Passing It On | Closing — family, legacy, grandmother's tree, what a fig tree means across generations |
+| # | Chapter Title | Core Focus | Target Words |
+|---|--------------|-----------|-------------|
+| 1 | The Tree That Started Everything | Personal intro + history overview + biblical overview | 3,500 ✅ APPROVED |
+| 2 | Know Your Fig | Botany, biology, syconium, wasp myth, breba vs. main crop | 4,500 |
+| 3 | A World of Varieties + Flavor Profiles | Variety overview by color/series, flavor profiles, Randall's favorites | 6,000 |
+| 4 | Choosing the Right Fig for You | Selection by climate, space, goals; container vs. ground | 4,000 |
+| 5 | Planting and Growing Figs Right | Soil, sun, water, containers, mulching, basic pruning | 5,000 |
+| 6 | Feeding Your Figs | NPK, Feed/Hold/Stop framework, organic vs. synthetic, container vs. in-ground | 5,500 |
+| 7 | Propagation — Making More of What You Love | Cuttings, air layers, grafting; nursery workflow; community sharing | 6,000 |
+| 8 | Getting Through Winter | Dormancy, cold protection, container overwintering, spring comeback | 4,500 |
+| 9 | Harvesting, Preserving, and Enjoying Figs | Ripeness indicators, storage, preserves, fresh eating | 4,000 |
+| 10 | Building a Fig Collection | Collector mindset, sourcing, FigBid, trading, organization | 4,000 |
+| 11 | From Hobby to Income — The Flomaton Famous Story | Randall's personal journey: hobby → side income → sustainable business | 5,500 |
+| 12 | Passing It On | Closing — family, legacy, grandmother's tree | 3,500 |
+| **Total** | | | **~56,000** |
 
-**Notes on biblical/theological content:**
-- No dedicated theological chapters
-- Biblical references (Garden of Eden, the fig leaf, "under the fig tree") woven as
-  several strong paragraphs in Chapters 1 and 2
-- Historical and faith content treated as part of the larger human story of figs,
-  not as a separate devotional thread
+> Chapters will run longer than minimums to reach the ~62,000 word target.
+> Randall will also personally expand Chapter 1 Section 4.
+> Dedicated history chapter removed — history is fully covered in approved Chapter 1.
 
-**Flavor Profiles section:** Belongs in Chapter 4 (A World of Varieties) as a dedicated
-section covering taste, texture, color, and best uses of major variety groups.
+**Biblical/historical content:** Fully handled in Chapter 1. No further dedicated sections.
+
+**Flavor Profiles:** Chapter 3 (A World of Varieties) — needs Randall's tasting notes.
+
+**Feed the Fig v4:** Randall's own Flomaton Famous LLC guide — primary reference for
+Chapter 6. See `research/feed-the-fig-reference.md`.
+
+**Chapter 11 frame (LOCKED):** Randall's personal journey from hobby to side income to
+potential retirement/full-time business. NOT a generic "how to start a nursery" chapter.
 
 ---
 
