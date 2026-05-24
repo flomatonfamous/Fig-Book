@@ -9,10 +9,28 @@
 
 ---
 
+## Locked Book Specs
+
+| Spec | Value |
+|------|-------|
+| Trim size | **6x9 inches** |
+| Target pages | **240** (finished, including photos) |
+| Target word count | **~62,000 words** |
+| Photos | **YES — integrated per chapter** |
+| Photo source | Randall's own — orchard, nursery, greenhouse |
+| Photo storage | `/photos/` folder in this repo (upload as captured) |
+| Shot list | See `PHOTO_SHOTLIST.md` |
+
+---
+
 ## Approved Book Elements
 
 | Element | Status | Notes |
 |---------|--------|-------|
+| Trim size | LOCKED | 6x9 trade paperback |
+| Target pages | LOCKED | 240 pages |
+| Target word count | LOCKED | ~62,000 words |
+| Photos | LOCKED | Yes — integrated; shot list in PHOTO_SHOTLIST.md |
 | Title | CONFIRMED | *The Backyard Fig* |
 | Subtitle | CONFIRMED | *History, Faith, Family, and Practical Growing from a Real Alabama Nursery* |
 | Tone & Style | LOCKED | Warm, readable, practical, personal — per STYLE_GUIDE.md |
@@ -50,6 +68,12 @@
 |----------|-------------|
 | Book title | The Backyard Fig |
 | Book subtitle | History, Faith, Family, and Practical Growing from a Real Alabama Nursery |
+| Trim size | 6x9 trade paperback |
+| Target pages | 240 pages (including photos) |
+| Target word count | ~62,000 words (text only) |
+| Photos | Integrated per chapter — Randall's own photos from active orchard/nursery/greenhouse |
+| Shot list | PHOTO_SHOTLIST.md |
+| Biblical content framing | Historical/cultural context — NOT personal faith perspective |
 | Chapter 1 opening | Randall's original text, lightly polished — length locked when approved |
 | Grandmother's name | Mildred |
 | Grandfather's name | Claude |

@@ -4,6 +4,10 @@
 research/fertilizer-source.txt
 research/propagation-source.txt
 
+# Photos folder — large files, push selectively or use Git LFS
+# Remove the line below if you want photos tracked in the repo
+# photos/
+
 # OS files
 .DS_Store
 Thumbs.db
