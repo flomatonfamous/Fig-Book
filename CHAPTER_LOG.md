@@ -34,11 +34,15 @@
 | Title | CONFIRMED | *The Backyard Fig* |
 | Subtitle | CONFIRMED | *History, Faith, Family, and Practical Growing from a Real Alabama Nursery* |
 | Tone & Style | LOCKED | Warm, readable, practical, personal — per STYLE_GUIDE.md |
-| Table of Contents | CONFIRMED | 13 chapters — see PROJECT.md |
-| Biblical content approach | CONFIRMED | Woven into Ch. 1 and 2 as paragraphs — no dedicated theological chapters |
-| Flavor Profiles section | CONFIRMED | Lives in Chapter 4 (A World of Varieties) |
+| Table of Contents | CONFIRMED | 13 chapters + Appendix — see PROJECT.md |
+| Biblical content approach | CONFIRMED | Woven into Ch. 1 only — fully handled, no further sections |
+| Flavor Profiles section | CONFIRMED | Chapter 3 (A World of Varieties) |
+| Pests & Diseases chapter | LOCKED | Chapter 6 — added May 24, 2026 |
+| Appendix | LOCKED | Glossary, variety reference, sources & credits, grower resources |
+| Source citations | LOCKED | All sourced facts credited — popular nonfiction attribution in Appendix |
 | Copyright approach | LOCKED | All research rewritten from scratch — no direct quotes or copied material |
 | Research source files | LOCKED | Raw source docs in .gitignore — never pushed to GitHub |
+| Feed the Fig v4 | LOCKED | Randall's own Flomaton Famous LLC publication — primary reference for Ch. 7 |
 
 ---
 
@@ -47,17 +51,19 @@
 | # | Working Title | Outline | Draft | Approved | Notes |
 |---|---------------|---------|-------|----------|-------|
 | 1 | The Tree That Started Everything | APPROVED | APPROVED | **APPROVED May 24, 2026** | ~2,900 words; Randall expanding Section 4 |
-| 2 | Know Your Fig | PENDING | — | — | Next chapter — outline coming |
-| 3 | A World of Varieties + Flavor Profiles | PENDING | — | — | Needs Randall's tasting notes before drafting |
+| 2 | Know Your Fig | PENDING | — | — | Subtitles presented — awaiting approval |
+| 3 | A World of Varieties + Flavor Profiles | PENDING | — | — | Needs Randall's personal tasting notes |
 | 4 | Choosing the Right Fig for You | PENDING | — | — | |
 | 5 | Planting and Growing Figs Right | PENDING | — | — | |
-| 6 | Feeding Your Figs | PENDING | — | — | Feed_The_Fig_v4 is primary reference |
-| 7 | Propagation — Making More of What You Love | PENDING | — | — | Research notes complete |
-| 8 | Getting Through Winter | PENDING | — | — | |
-| 9 | Harvesting, Preserving, and Enjoying Figs | PENDING | — | — | |
-| 10 | Building a Fig Collection | PENDING | — | — | |
-| 11 | From Hobby to Income — The Flomaton Famous Story | PENDING | — | — | Randall's personal journey — needs his story |
-| 12 | Passing It On | PENDING | — | — | Written last |
+| 6 | Pests, Diseases & Troubleshooting | PENDING | — | — | NEW chapter added May 24, 2026 |
+| 7 | Feeding Your Figs | PENDING | — | — | Feed_The_Fig_v4 is primary reference |
+| 8 | Propagation — Making More of What You Love | PENDING | — | — | Research notes complete |
+| 9 | Getting Through Winter | PENDING | — | — | |
+| 10 | Harvesting, Preserving, and Enjoying Figs | PENDING | — | — | |
+| 11 | Building a Fig Collection | PENDING | — | — | |
+| 12 | From Hobby to Income — The Flomaton Famous Story | PENDING | — | — | Randall's personal journey — needs his story details |
+| 13 | Passing It On | PENDING | — | — | Written last |
+| — | Appendix | PENDING | — | — | Glossary, variety reference, sources & credits, resources |
 
 ---
 
@@ -114,7 +120,16 @@
 
 ## Session Notes
 
-### May 24, 2026
+### May 24, 2026 — Session 2 (continued)
+- Feed_The_Fig_v4 (Flomaton Famous LLC) ingested and locked as Ch. 7 primary reference
+- Chapter 6 (Pests, Diseases & Troubleshooting) added — shifts all subsequent chapters by one
+- Appendix added to final structure
+- Source citation policy locked — popular nonfiction attribution, credited in Appendix
+- TOC finalized at 13 chapters + Appendix
+- Chapter 2 subtitles presented — awaiting Randall's approval
+- Next step: approve Chapter 2 subtitles, then draft Chapter 2
+
+### May 24, 2026 — Session 1
 - Project initialized
 - Both reference documents ingested (AI Persona, FigBook)
 - Fertilizer and propagation research documents (.docx) ingested and synthesized into

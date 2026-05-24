@@ -138,6 +138,17 @@ create copyright issues or introduce inaccuracies.
    drafting anything. Do not rely on conversation memory alone.
 8. **No chapter is approved until Randall explicitly says so.** "Looks good" is not approval.
    The word "approved" or equivalent must appear in the conversation.
+9. **Credit all sources.** When information comes from a university extension service,
+   research study, or published source, track the credit in the chapter's research notes
+   and carry it into the Appendix sources section. Popular nonfiction attribution style —
+   not academic citation format. Examples of how to credit:
+   - "Alabama Cooperative Extension, Fig Production Guide"
+   - "Louisiana State University AgCenter"
+   - "University of Georgia Cooperative Extension"
+   - Historical/archaeological facts: note the source or study when known
+   - Feed the Fig v4 (Flomaton Famous LLC) — Randall's own work, may cross-reference
+     as a companion resource rather than citing as an external source
+   - Do not present sourced information as Randall's original knowledge without attribution
 
 ---
 
@@ -217,33 +228,34 @@ finished book may run 240–260 pages — this is acceptable and expected.
 
 | # | Chapter Title | Core Focus | Target Words |
 |---|--------------|-----------|-------------|
-| 1 | The Tree That Started Everything | Personal intro + history overview + biblical overview | 3,500 ✅ APPROVED |
-| 2 | Know Your Fig | Botany, biology, syconium, wasp myth, breba vs. main crop | 4,500 |
-| 3 | A World of Varieties + Flavor Profiles | Variety overview by color/series, flavor profiles, Randall's favorites | 6,000 |
-| 4 | Choosing the Right Fig for You | Selection by climate, space, goals; container vs. ground | 4,000 |
-| 5 | Planting and Growing Figs Right | Soil, sun, water, containers, mulching, basic pruning | 5,000 |
-| 6 | Feeding Your Figs | NPK, Feed/Hold/Stop framework, organic vs. synthetic, container vs. in-ground | 5,500 |
-| 7 | Propagation — Making More of What You Love | Cuttings, air layers, grafting; nursery workflow; community sharing | 6,000 |
-| 8 | Getting Through Winter | Dormancy, cold protection, container overwintering, spring comeback | 4,500 |
-| 9 | Harvesting, Preserving, and Enjoying Figs | Ripeness indicators, storage, preserves, fresh eating | 4,000 |
-| 10 | Building a Fig Collection | Collector mindset, sourcing, FigBid, trading, organization | 4,000 |
-| 11 | From Hobby to Income — The Flomaton Famous Story | Randall's personal journey: hobby → side income → sustainable business | 5,500 |
-| 12 | Passing It On | Closing — family, legacy, grandmother's tree | 3,500 |
-| **Total** | | | **~56,000** |
-
-> Chapters will run longer than minimums to reach the ~62,000 word target.
-> Randall will also personally expand Chapter 1 Section 4.
-> Dedicated history chapter removed — history is fully covered in approved Chapter 1.
+| 1 | The Tree That Started Everything | Personal intro, history overview, biblical overview, what this book is | 3,500 ✅ APPROVED |
+| 2 | Know Your Fig | Botany, biology, syconium, wasp myth, breba vs. main crop, latex, growth habit | 4,500 |
+| 3 | A World of Varieties + Flavor Profiles | Varieties by color/series, flavor profiles, Randall's personal favorites | 6,000 |
+| 4 | Choosing the Right Fig for You | Selection by climate, space, goals; container vs. ground; starter recommendations | 4,000 |
+| 5 | Planting and Growing Figs Right | Soil, sun, water, containers, mulching, basic pruning, microclimates | 5,000 |
+| 6 | Pests, Diseases & Troubleshooting | Fig rust, borers, beetles, nematodes, souring, diagnostics | 4,000 |
+| 7 | Feeding Your Figs | NPK, Feed/Hold/Stop framework, organic vs. synthetic, seasonal timing | 5,500 |
+| 8 | Propagation — Making More of What You Love | Cuttings, air layers, grafting, nursery workflow, community sharing | 6,000 |
+| 9 | Getting Through Winter | Dormancy, cold protection, container overwintering, spring comeback | 4,500 |
+| 10 | Harvesting, Preserving, and Enjoying Figs | Ripeness indicators, storage, preserves, fresh eating | 4,000 |
+| 11 | Building a Fig Collection | Collector mindset, sourcing, FigBid, trading, organization, the renaissance | 4,000 |
+| 12 | From Hobby to Income — The Flomaton Famous Story | Randall's personal journey: hobby → side income → sustainable/retirement business | 5,500 |
+| 13 | Passing It On | Closing — family, legacy, grandmother's tree, what grows beyond us | 3,500 |
+| — | **Appendix** | Glossary, variety quick-reference, sources & credits, resources | ~2,000 |
+| **Total** | | | **~62,000** |
 
 **Biblical/historical content:** Fully handled in Chapter 1. No further dedicated sections.
 
-**Flavor Profiles:** Chapter 3 (A World of Varieties) — needs Randall's tasting notes.
+**Flavor Profiles:** Chapter 3 — needs Randall's personal tasting notes before drafting.
 
-**Feed the Fig v4:** Randall's own Flomaton Famous LLC guide — primary reference for
-Chapter 6. See `research/feed-the-fig-reference.md`.
+**Feed the Fig v4:** Randall's own Flomaton Famous LLC publication — primary reference for
+Chapter 7. See `research/feed-the-fig-reference.md`. Draw from it directly.
 
-**Chapter 11 frame (LOCKED):** Randall's personal journey from hobby to side income to
+**Chapter 12 frame (LOCKED):** Randall's personal journey from hobby to side income to
 potential retirement/full-time business. NOT a generic "how to start a nursery" chapter.
+
+**Appendix (LOCKED):** Included. Contains glossary, variety quick-reference by climate,
+sources & credits for all information used in the book, and grower resources.
 
 ---
 
