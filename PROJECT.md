@@ -18,6 +18,13 @@
 
 ---
 
+## Book Title (CONFIRMED)
+
+**Title:** The Backyard Fig
+**Subtitle:** History, Faith, Family, and Practical Growing from a Real Alabama Nursery
+
+---
+
 ## Book Purpose
 
 A complete, publishable fig book that combines:
@@ -118,6 +125,36 @@ For every chapter:
 | 6 | Provide a short list of possible improvements or missing details |
 | 7 | Revise based on Randall's feedback |
 | 8 | Mark chapter APPROVED only when Randall explicitly says so |
+
+---
+
+## Approved Table of Contents (LOCKED — May 24, 2026)
+
+| # | Chapter Title | Core Focus |
+|---|--------------|-----------|
+| 1 | The Tree That Started Everything | Personal intro — grandmother Mildred's Brown Turkey, family, the Alabama connection; history + biblical woven in as paragraphs |
+| 2 | A Fruit with Ancient Roots | Deep history of figs — Middle East, Egypt, Greece, Rome; the fig's journey to the American South; biblical presence woven throughout |
+| 3 | Know Your Fig | How figs actually work — biology, the wasp myth, breba vs. main crop, why figs are unique |
+| 4 | A World of Varieties | Variety overview and flavor profiles — what makes varieties different; taste, texture, color, use |
+| 5 | Choosing the Right Fig for You | Variety selection by climate, space, and goals — container vs. ground; recommendations for the South |
+| 6 | Planting and Growing Figs Right | Soil, sun, water, containers, spacing — the practical foundation |
+| 7 | Feeding Your Figs | Fertilizer deep dive — NPK explained, organic vs. synthetic, container vs. in-ground, seasonal timing |
+| 8 | Propagation — Making More of What You Love | Cuttings, air layers, grafting; nursery workflow; the fig community culture of sharing |
+| 9 | Getting Through Winter | Dormancy, cold protection, container overwintering, what zone you're really in |
+| 10 | Harvesting, Preserving, and Enjoying Figs | When to pick, how to tell ripe, preservation options, fresh eating |
+| 11 | Building a Fig Collection | The collector mindset, sourcing trees, community, FigBid, trading culture |
+| 12 | From Backyard to Business | Starting a nursery, the Flomaton Famous story, licensing, selling, shipping |
+| 13 | Passing It On | Closing — family, legacy, grandmother's tree, what a fig tree means across generations |
+
+**Notes on biblical/theological content:**
+- No dedicated theological chapters
+- Biblical references (Garden of Eden, the fig leaf, "under the fig tree") woven as
+  several strong paragraphs in Chapters 1 and 2
+- Historical and faith content treated as part of the larger human story of figs,
+  not as a separate devotional thread
+
+**Flavor Profiles section:** Belongs in Chapter 4 (A World of Varieties) as a dedicated
+section covering taste, texture, color, and best uses of major variety groups.
 
 ---
 

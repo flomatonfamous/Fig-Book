@@ -5,7 +5,7 @@
 
 ---
 
-## Book Status: PLANNING PHASE
+## Book Status: CHAPTER 1 IN PROGRESS
 
 ---
 
@@ -13,12 +13,14 @@
 
 | Element | Status | Notes |
 |---------|--------|-------|
-| Title | PENDING | Options to be presented |
-| Subtitle | PENDING | Options to be presented |
-| Main Promise | PENDING | To be defined |
-| Intended Audience | PENDING | Draft in PROJECT.md — awaiting approval |
+| Title | CONFIRMED | *The Backyard Fig* |
+| Subtitle | CONFIRMED | *History, Faith, Family, and Practical Growing from a Real Alabama Nursery* |
 | Tone & Style | LOCKED | Warm, readable, practical, personal — per STYLE_GUIDE.md |
-| Table of Contents | PENDING | Draft to be presented |
+| Table of Contents | CONFIRMED | 13 chapters — see PROJECT.md |
+| Biblical content approach | CONFIRMED | Woven into Ch. 1 and 2 as paragraphs — no dedicated theological chapters |
+| Flavor Profiles section | CONFIRMED | Lives in Chapter 4 (A World of Varieties) |
+| Copyright approach | LOCKED | All research rewritten from scratch — no direct quotes or copied material |
+| Research source files | LOCKED | Raw source docs in .gitignore — never pushed to GitHub |
 
 ---
 
@@ -26,16 +28,19 @@
 
 | # | Working Title | Outline | Draft | Approved | Notes |
 |---|---------------|---------|-------|----------|-------|
-| 1 | TBD | PENDING | — | — | Length is locked when approved |
-| 2 | TBD | PENDING | — | — | |
-| 3 | TBD | PENDING | — | — | |
-| 4 | TBD | PENDING | — | — | |
-| 5 | TBD | PENDING | — | — | |
-| 6 | TBD | PENDING | — | — | |
-| 7 | TBD | PENDING | — | — | |
-| 8 | TBD | PENDING | — | — | |
-
-> Chapter count and titles will be updated once the Table of Contents is approved.
+| 1 | The Tree That Started Everything | PARTIAL | PARTIAL | PENDING | Opening section drafted from Randall's original text; 3 sections still need Randall input |
+| 2 | A Fruit with Ancient Roots | PENDING | — | — | Needs Randall's faith-framing preference before outlining |
+| 3 | Know Your Fig | PENDING | — | — | |
+| 4 | A World of Varieties | PENDING | — | — | Includes Flavor Profiles section |
+| 5 | Choosing the Right Fig for You | PENDING | — | — | |
+| 6 | Planting and Growing Figs Right | PENDING | — | — | |
+| 7 | Feeding Your Figs | PENDING | — | — | Research notes complete — see research/fertilizer-notes.md |
+| 8 | Propagation | PENDING | — | — | Research notes complete — see research/propagation-notes.md |
+| 9 | Getting Through Winter | PENDING | — | — | |
+| 10 | Harvesting, Preserving, and Enjoying Figs | PENDING | — | — | |
+| 11 | Building a Fig Collection | PENDING | — | — | |
+| 12 | From Backyard to Business | PENDING | — | — | Flomaton Famous story — needs Randall's details |
+| 13 | Passing It On | PENDING | — | — | Closing chapter |
 
 ---
 
@@ -43,12 +48,44 @@
 
 | Decision | Locked Value |
 |----------|-------------|
-| Chapter 1 length | Keep at current length; exceed in later chapters |
-| Tone | Warm, readable, accessible, practical |
-| Grandmother's tree location | ~2 miles from Randall's home and orchard, Alabama |
+| Book title | The Backyard Fig |
+| Book subtitle | History, Faith, Family, and Practical Growing from a Real Alabama Nursery |
+| Chapter 1 opening | Randall's original text, lightly polished — length locked when approved |
+| Grandmother's name | Mildred |
+| Grandfather's name | Claude |
+| Grandmother's tree | Brown Turkey; approximately 2 miles from Randall's orchard; homestead abandoned, tree still standing |
+| Biblical content structure | Woven paragraphs in Ch. 1 & 2 — no standalone theological chapters |
+| Flavor Profiles | Section in Chapter 4 |
+| Copyright policy | All research synthesized and rewritten — no quotes, no copied content |
+| Tone | Warm, readable, accessible, practical — Randall's voice |
 | Wife's name spelling | Mechelle |
 | Business name | Flomaton Famous LLC |
 | Alabama Nursery Number | 182 |
+
+---
+
+## Open Questions (Must Answer Before Drafting)
+
+| # | Question | Needed For |
+|---|----------|-----------|
+| 1 | How do you want biblical content framed — your personal faith perspective, or historical/cultural context? | Chapter 1 & 2 drafting |
+| 2 | Additional details about Mildred's tree — her personality, what she did with the figs, any specific memories beyond what you wrote? | Chapter 1 expansion |
+| 3 | Is the polished opening (5 paragraphs) the right length, or do you want to expand it? | Chapter 1 length lock |
+| 4 | Personal origin story — what was your first fig you grew yourself, before the nursery? | Chapter 1 or 12 |
+| 5 | How do you want to handle the Flomaton Famous origin story — how formal or personal? | Chapter 12 |
+
+---
+
+## Research Files
+
+| File | Status | Use |
+|------|--------|-----|
+| `research/fertilizer-notes.md` | COMPLETE | Chapter 7 drafting |
+| `research/propagation-notes.md` | COMPLETE | Chapter 8 drafting |
+| `research/biblical-references.md` | DRAFT | Chapter 1 & 2 — needs Randall's framing preference |
+| `research/fig-history.md` | PENDING | Chapter 2 |
+| `research/fig-varieties.md` | PENDING | Chapters 4 & 5 |
+| `notes/personal-stories.md` | ONGOING | Referenced throughout |
 
 ---
 
@@ -56,10 +93,19 @@
 
 ### May 24, 2026
 - Project initialized
-- AI Persona and FigBook documents ingested
-- Project folder created: `C:\Users\white\Documents\fig-book`
-- PROJECT.md, STYLE_GUIDE.md, CHAPTER_LOG.md, and README.md created
-- Next step: Present title options, audience, and Table of Contents draft for approval
+- Both reference documents ingested (AI Persona, FigBook)
+- Fertilizer and propagation research documents (.docx) ingested and synthesized into
+  original research notes
+- Raw source files added to .gitignore — not pushed to GitHub
+- Title confirmed: *The Backyard Fig*
+- TOC confirmed: 13 chapters
+- Biblical content confirmed: woven paragraphs, not dedicated chapters
+- Flavor profiles confirmed: Chapter 4
+- Chapter 1 opening drafted from Randall's original text (lightly polished)
+- Grandmother's name confirmed: Mildred | Grandfather's name confirmed: Claude
+- Grandmother's tree confirmed: Brown Turkey
+- All files committed and pushed to GitHub: https://github.com/flomatonfamous/Fig-Book
+- Next step: Randall reviews Chapter 1 opening and answers open questions above
 
 ---
 

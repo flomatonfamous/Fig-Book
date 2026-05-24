@@ -1,0 +1,10 @@
+# Raw source documents — not pushed to GitHub
+# These are reference/research files containing third-party content.
+# Synthesized notes derived from these are in /research/ and are safe to push.
+research/fertilizer-source.txt
+research/propagation-source.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
