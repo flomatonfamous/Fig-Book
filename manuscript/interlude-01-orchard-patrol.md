@@ -1,7 +1,7 @@
 # Interlude: The Orchard Patrol
 
-**STATUS: DRAFT — Randall's original text, unedited**
-**PLACEMENT: Between Chapter 5 (Planting & Growing) and Chapter 6 (Pests & Diseases)**
+**STATUS: DRAFT — Awaiting final approval**
+**PLACEMENT: CONFIRMED — Between Chapter 5 (Planting & Growing) and Chapter 6 (Pests & Diseases)**
 **Note: This is Randall's own writing. Do not edit without his instruction.**
 
 ---
@@ -84,9 +84,8 @@ They're part of the story.
 
 ---
 
-*[RANDALL: If you want to add the dogs' names here or anywhere in this piece, just let
-me know and I'll weave them in. Also confirm final placement — between Ch. 5 and Ch. 6
-as an interlude, or elsewhere.]*
+*[RANDALL: If you want to add the dogs' names anywhere in this piece, just say so and
+I'll weave them in. Placement is confirmed between Ch. 5 and Ch. 6.]*
 
 ---
 
