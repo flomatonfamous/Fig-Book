@@ -46,7 +46,7 @@
 
 | # | Working Title | Outline | Draft | Approved | Notes |
 |---|---------------|---------|-------|----------|-------|
-| 1 | The Tree That Started Everything | PARTIAL | PARTIAL | PENDING | Opening section drafted from Randall's original text; 3 sections still need Randall input |
+| 1 | The Tree That Started Everything | APPROVED | APPROVED | **APPROVED May 24, 2026** | ~2,900 words; Randall to expand Section 4 personally |
 | 2 | A Fruit with Ancient Roots | PENDING | — | — | Needs Randall's faith-framing preference before outlining |
 | 3 | Know Your Fig | PENDING | — | — | |
 | 4 | A World of Varieties | PENDING | — | — | Includes Flavor Profiles section |

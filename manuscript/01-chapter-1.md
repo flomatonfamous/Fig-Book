@@ -1,10 +1,9 @@
 # Chapter 1: The Tree That Started Everything
 
-**STATUS: DRAFT — Awaiting Randall's review and approval**
+**STATUS: APPROVED — May 24, 2026**
+**Word count target: 3,500 | Actual: ~2,900 (Randall to expand Section 4)**
 
 ---
-
-## Opening — Randall's Voice (polished from author's original text)
 
 When I think about where my fig journey truly began, my mind doesn't go to orchard rows
 or propagation benches or even my nursery today. It goes back to a single Brown Turkey
@@ -43,67 +42,140 @@ something ancient.
 
 ---
 
-## [SECTION PLACEHOLDER — Figs and the Ancient World]
+## A Fruit That Outlasted Empires
 
-> GHOSTWRITER NOTE: This section will cover the deep historical roots of fig cultivation —
-> ancient Middle East, Egypt, Greece, Rome — woven through with the biblical presence of
-> figs (Garden of Eden, the fig leaf, "under the fig tree" as a symbol of peace and
-> blessing). No dedicated theological chapters — this material is woven into the narrative
-> here as several strong paragraphs, connecting Randall's personal experience to the
-> larger human story of figs.
->
-> TO DO before drafting: Randall to confirm how personally he wants the faith element
-> framed — as his own perspective, or as general historical/cultural context. Both are
-> valid; the answer shapes the tone of this section significantly.
+Archaeologists digging near the Jordan Valley have uncovered evidence of fig cultivation
+stretching back roughly eleven thousand years — making the fig one of the oldest cultivated
+food plants ever documented. What makes that number remarkable isn't just its size. It's
+what it means: people were tending fig trees before they were planting wheat fields. Before
+organized grain farming, before the earliest cities, there were fig trees being deliberately
+grown and cared for. Something about this fruit compelled people to settle near it,
+cultivate it, and make it part of their lives from the very beginning.
 
----
+From those early cultivations in the ancient Near East, the fig tree made its way into the
+daily life, religion, and literature of every major civilization that followed. The Egyptians
+grew figs extensively — they appear in tomb paintings alongside grain and beer as essential
+provisions for the afterlife. In ancient Greece, figs were a staple food woven into culture
+and mythology. Greek athletes consumed them as a training food, and the fig held a place in
+religious tradition connected to the gods of harvest and earth. When Rome rose to dominate
+the ancient world, figs came with it. The Romans had a sacred fig tree — the Ficus
+Ruminalis — that stood at the heart of their founding mythology, and the fruit itself was a
+common and valued part of Roman life from the tables of senators to the rations of soldiers.
 
-## [SECTION PLACEHOLDER — How the Fig Got to Alabama]
+But no ancient civilization gave the fig more prominent a place than the one documented in
+the Bible. The fig tree is one of the only trees specifically named in the Garden of Eden —
+when Adam and Eve reached for something to cover themselves after the fall, they turned to
+fig leaves. That single detail, recorded in Genesis, makes the fig tree the first plant
+named by its species in human history's most widely read account of the world's beginning.
+It doesn't appear in the background. It's part of the story.
 
-> GHOSTWRITER NOTE: Brief narrative arc of how figs moved from the Middle East through
-> the Mediterranean, to Spain, to the New World, to the American South. Mission fig
-> background, Brown Turkey's rise in Southern gardens, why figs became a Southern staple.
-> Connects the global story back to Mildred's backyard tree.
+The fig shows up throughout Scripture in ways that go well beyond that opening moment.
+Across the Old Testament, sitting "under one's own vine and fig tree" became a consistent
+image of peace, safety, and God's blessing — a shorthand for what a good life was supposed
+to look like. The phrase appears in Kings, in Micah, in Zechariah — not once but
+repeatedly, which tells you how thoroughly the fig was woven into the daily experience of
+people in that world. It wasn't a symbol they invented. It was a symbol drawn straight from
+their real lives, because figs actually grew beside their homes, fed their families, and
+shaded their afternoons. In the New Testament, Jesus used the fig tree in parables and
+teaching more than once — its fruit, its seasons, and its condition used as visible,
+familiar examples that any listener would immediately understand.
 
----
-
-## [SECTION PLACEHOLDER — Why This Book]
-
-> GHOSTWRITER NOTE: Short closing section for the chapter — who this book is for, what
-> it will cover, what you'll be able to do by the end of it. Warm, direct, not sales-y.
-> Should feel like Randall talking to someone across the table who just asked him,
-> "So what's this book about?"
-
----
-
-## Chapter 1 Outline Summary
-
-| Section | Status | Notes |
-|---------|--------|-------|
-| Opening (Grandmother's tree, personal connection) | DRAFT — author's original text, lightly polished | Awaiting Randall approval |
-| Figs and the Ancient World (history + biblical paragraphs) | PENDING | Need Randall's faith framing preference |
-| How the Fig Got to Alabama | PENDING | Ready to draft after section 2 approved |
-| Why This Book | PENDING | Draft last — wraps chapter |
-
----
-
-## Notes & Questions for Randall
-
-1. **Faith framing:** Do you want the biblical content to read as your personal faith
-   perspective ("As someone who reads Scripture, I've always been struck by..."), or
-   more as objective cultural/historical context ("Throughout history, the fig tree held
-   a central place in biblical narrative...")? Either works — they just produce
-   different tones.
-
-2. **Grandmother's tree story:** Any additional details you want in the opening?
-   - Her personality, what she did with the figs (jams, preserves, fresh eating)?
-   - What the Sunday visits felt like beyond the figs?
-   - Anything specific about that Brown Turkey tree — its size, age, how long it's been there?
-
-3. **Opening length:** The polished opening section as written runs about 5 tight
-   paragraphs. Is this the length you want to lock in, or do you want to expand it?
+Whether your interest in figs is historical, botanical, or rooted in faith, the story is
+the same: this is a tree that has mattered to human beings for as long as human beings have
+been keeping records.
 
 ---
 
-*Chapter 1 draft started: May 24, 2026*
-*Status: OPEN — awaiting Randall's feedback on outline and opening section*
+## From Ancient Groves to American Backyards
+
+The fig didn't stay in the Middle East. Like everything valuable, it traveled — carried by
+traders, settlers, missionaries, and ordinary people who wanted to bring with them the
+plants that fed and mattered to them.
+
+It spread westward through the Mediterranean world over thousands of years, moving with
+Phoenician traders, Greek colonists, and Roman expansion until it had taken root across
+North Africa and southern Europe. By the time the age of exploration opened the New World,
+the fig was as embedded in Mediterranean and Iberian culture as the olive. Spanish
+missionaries carried fig cuttings with them to California in the eighteenth century,
+planting them at the missions they established along the coast. The variety they brought
+became so closely identified with that history that it still carries the name today — the
+Mission fig, dark-skinned, dense, and sweet, remains one of the most widely recognized
+fig varieties in the country.
+
+Figs found their way to the American South through a similar process — brought by settlers
+and homesteaders who packed cuttings alongside seeds and tools, carrying the plants that
+had fed their families in the places they came from. The South turned out to be good fig
+country. The summers are long and hot, which is exactly what figs want, and varieties like
+Brown Turkey and Celeste proved hardy enough to handle Southern winters without much help.
+They established easily. They grew large. They produced reliably year after year with almost
+no attention.
+
+The result was a tradition that anyone raised in the rural South will recognize immediately.
+Almost every old homestead had a fig tree somewhere in the yard. They weren't ornamental
+and they weren't a hobby — they were practical. Figs were put up as preserves every summer,
+jarred alongside tomatoes and beans as a matter of course. Nobody thought much about variety
+names or collection strategies. You had the tree you had, usually grown from a cutting
+passed along by a neighbor or a relative, and it fed your family. That's how Mildred's
+Brown Turkey almost certainly arrived — not from a nursery or a catalog, but from someone
+nearby who had more than they needed and passed a rooted cutting along. It's how fig trees
+have always moved between people.
+
+That informal tradition of sharing is still alive today, though the fig world around it has
+changed considerably. In recent decades, serious collectors have built libraries of hundreds
+of varieties. Online communities trade cuttings across the country. Auction platforms like
+FigBid have created an active market for rare and sought-after varieties. And university
+research programs have developed entirely new lines of figs bred specifically for American
+growing conditions.
+
+Louisiana State University's AgCenter ran one of the most significant of those programs,
+producing a series of varieties that have become staples for Southern growers. LSU Purple,
+LSU Gold, LSU Champagne, LSU Scott's Black, and several others came out of that work —
+each one bred for performance in the heat and humidity of the Gulf Coast. LSU Purple in
+particular has become one of the most widely planted backyard figs in the region, valued
+for its reliable production, its cold tolerance relative to more tender varieties, and the
+quality of its fruit. Among fig enthusiasts, the LSU series carries real credibility —
+they were bred for this climate, and they deliver. Several of them are in my own orchard,
+and they earn their space every season.
+
+The fig's journey from ancient Jordan Valley cultivation to a breeding program in Baton
+Rouge to a backyard tree in your neighborhood is a long one. But it's a continuous one.
+The same impulse that led ancient cultivators to tend figs, that led missionaries to pack
+cuttings for a new continent, that led Southern homesteaders to share rooted starts with
+their neighbors — that same impulse drives the fig community today. People find this fruit,
+fall for it, and want more of it. Then they want to share it. That part hasn't changed in
+eleven thousand years.
+
+---
+
+## What This Book Is
+
+This is a practical book about growing figs — but it's also something more than that.
+It's about what figs mean when you actually grow them: the patience of waiting for a
+cutting to root, the satisfaction of a heavy harvest, the particular pleasure of growing
+something with real history behind it.
+
+You don't need to be an experienced gardener to use this book. You need a fig tree, or
+the intention to get one. Whether you're starting with a single container plant on a patio
+or building a collection of a hundred varieties, the fundamentals here will serve you.
+We'll cover varieties and how to choose them, how to plant and feed and prune, how to
+propagate more trees than you'll know what to do with, how to get through winter, and
+how to harvest figs at their absolute best. There's a chapter on building a serious
+collection and one on turning a backyard passion into a small nursery business — because
+for some of us, that's where this goes.
+
+The goal is a book you'll actually use — one that lives on a workbench or a windowsill
+rather than a shelf — written by someone who grows figs for a living and hasn't forgotten
+what it was like to not know what he was doing.
+
+Let's get started.
+
+---
+
+*[RANDALL: This section is intentionally left short for you to expand with personal details
+you want to add — specific things you want to tell the reader directly, or a more personal
+note about what this book means to you. The bones are here; add whatever feels right.]*
+
+---
+
+**CHAPTER APPROVED: May 24, 2026**
+**Next revision only if Randall requests changes.**
