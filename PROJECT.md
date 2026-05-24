@@ -57,10 +57,23 @@ A complete, publishable fig book that combines:
 
 ---
 
-## Fig Collection
+## Fig Collection (LOCKED — Canonical 2026 List)
 
-- Treat the February 2026 fig variety list as canonical when provided in conversation
-- The collection is large and diverse — do not generalize or invent variety details
+- **82 varieties confirmed** — full list in `research/fig-varieties.md`
+- This list is the ONLY source of varieties to reference as Randall's own
+- Do NOT reference any variety as being in Randall's collection unless it appears
+  in `research/fig-varieties.md`
+- If writing about a variety NOT in the collection (for educational comparison),
+  explicitly state it is not in his collection
+- Do NOT write specific flavor descriptions for any variety without Randall's
+  personal confirmation of his experience with that variety
+- Notable groupings in the collection: LSU series (8 varieties), Col De Dame series
+  (7 varieties), Mediterranean classics, collector/named varieties
+- One caprifig in collection: Stripped Butler (non-edible, used for pollination)
+- "Smith" appears twice in the source list — treat as one entry until clarified
+- California Brown Turkey is in the collection; standard Brown Turkey is NOT
+  (Grandmother Mildred's tree is standard Brown Turkey — a variety Randall does not grow)
+- Full organized breakdown by color, origin, and series in `research/fig-varieties.md`
 
 ---
 
@@ -109,7 +122,10 @@ create copyright issues or introduce inaccuracies.
    before it goes into manuscript. Do not smooth over uncertainty with confident-sounding prose.
 3. **Never directly quote or closely paraphrase copyrighted sources.** All research must
    be synthesized into original writing. Research notes are the approved source — use those.
-4. **Never drift from locked decisions.** If something in this file says LOCKED or CONFIRMED,
+4. **Never reference a fig variety as Randall's own unless it appears in
+   `research/fig-varieties.md`.** Do not invent variety experiences or flavor descriptions.
+   If a variety is not in the collection, say so explicitly.
+5. **Never drift from locked decisions.** If something in this file says LOCKED or CONFIRMED,
    do not change it, soften it, or work around it without explicit approval.
 5. **Biblical content is historical/cultural context, not personal faith perspective.**
    This is locked. Do not frame biblical references as Randall's personal faith experience.
