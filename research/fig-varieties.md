@@ -12,9 +12,19 @@
 
 ## Full Collection (82 Varieties)
 
-> Note: "Smith" appears twice in the source list (#43 and #54). Treat as one entry
-> unless Randall confirms two distinct Smith varieties are intentional.
-> "Stripped Butler" is listed as a caprifig — this is not a fruiting variety for eating.
+> **Smith** appears twice in the source list — confirmed as the same variety listed twice.
+> Treat as a single entry. Only one Smith in the collection.
+>
+> **Stripped Butler** — confirmed caprifig used for pollination. Not an edible fruiting
+> variety. Reference accordingly in the book.
+>
+> **Hardy Chicago** — confirmed same variety as "Chicago Hardy." The name is simply
+> reversed. One variety.
+>
+> **Total collection note:** Randall is currently growing approximately 200 varieties
+> total. This 82-variety list is the confirmed reference subset for the book.
+> Do not extrapolate beyond this list without Randall's explicit confirmation.
+> Additional varieties exist but are not yet documented here.
 
 1. Galacia Negra
 2. Dr. Gowaty
@@ -58,7 +68,7 @@
 40. Honey Plum
 41. Madeleine Des Deux Saisons
 42. Kathleen's Black
-43. Smith
+43. Smith *(duplicate of #54 — same variety)*
 44. Cherry Cordial
 45. Sunrise
 46. Battaglia Green

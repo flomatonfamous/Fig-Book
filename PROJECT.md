@@ -70,7 +70,10 @@ A complete, publishable fig book that combines:
 - Notable groupings in the collection: LSU series (8 varieties), Col De Dame series
   (7 varieties), Mediterranean classics, collector/named varieties
 - One caprifig in collection: Stripped Butler (non-edible, used for pollination)
-- "Smith" appears twice in the source list — treat as one entry until clarified
+- "Smith" confirmed as one variety listed twice — treat as single entry
+- "Hardy Chicago" confirmed same variety as "Chicago Hardy" — one variety
+- Total collection is approximately 200 varieties; this 82-variety list is the confirmed
+  reference subset for the book — do not extrapolate beyond it without confirmation
 - California Brown Turkey is in the collection; standard Brown Turkey is NOT
   (Grandmother Mildred's tree is standard Brown Turkey — a variety Randall does not grow)
 - Full organized breakdown by color, origin, and series in `research/fig-varieties.md`
