@@ -167,6 +167,11 @@ The goal is a book you'll actually use — one that lives on a workbench or a wi
 rather than a shelf — written by someone who grows figs for a living and hasn't forgotten
 what it was like to not know what he was doing.
 
+If you want to follow along beyond these pages, I document the orchard, the nursery, and
+the growing life on YouTube at Flomaton Famous — figs, rare fruit, and the occasional
+building project. We even built our own teardrop camper. You can find everything at
+www.FlomatonFamous.com.
+
 Let's get started.
 
 ---

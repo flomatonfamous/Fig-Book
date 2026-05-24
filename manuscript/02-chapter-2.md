@@ -238,6 +238,10 @@ and biology and history. It's simple enough for a beginner and deep enough to ho
 interest of someone who's been growing them for thirty years. That's a rare combination
 in any living thing, and it's part of what keeps so many people in this hobby for life.
 
+If you want to see how much of this plays out in a real orchard, I document the growing
+season, propagation work, and variety collection on my YouTube channel — Flomaton Famous.
+Come take a look when you're ready.
+
 ---
 
 **Possible improvements or additions:**

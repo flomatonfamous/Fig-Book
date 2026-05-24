@@ -5,6 +5,36 @@
 
 ---
 
+## Author Platform & Marketing (LOCKED)
+
+| Platform | Details |
+|----------|---------|
+| YouTube channel | Flomaton Famous |
+| Channel content | Figs, rare fruit, building projects around the house (including the teardrop camper build) |
+| Website | www.FlomatonFamous.com |
+| Etsy | Flomaton Famous (fig fertilizer guide, future PDF guides) |
+| FigBid | Active seller of trees and cuttings |
+
+**Channel plug placement — locked locations:**
+
+| Location | Type | Notes |
+|----------|------|-------|
+| Chapter 1 — "What This Book Is" section | Brief mention | Randall expanding this section personally — include channel as a natural intro |
+| Chapter 8 — Propagation | One line at end of section | "If you want to see these techniques in action, I document propagation on Flomaton Famous" |
+| Chapter 11 — Building a Fig Collection | One line | Channel as part of the broader fig content community |
+| Chapter 12 — From Hobby to Income | Full natural mention | YouTube is part of the Flomaton Famous business story — not a plug, it's the story |
+| Appendix — Resources | Listed entry | Website + YouTube under "Stay Connected / About the Author" |
+| Back cover / Author bio | Standard bio inclusion | Every author bio includes platform — non-negotiable |
+
+**Rules for plugs:**
+- Always at natural section breaks — never mid-paragraph or mid-technical content
+- Frame as "follow along" or "see it in action" — not promotional language
+- Mention the teardrop camper at least once — it shows personality and makes the channel feel like more than just fig content
+- Never more than one plug per chapter
+- Chapter 13 (Passing It On) gets no plug — keep the close on legacy
+
+---
+
 ## Author
 
 - **Name:** Randall White
