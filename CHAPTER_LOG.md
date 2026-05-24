@@ -55,7 +55,8 @@
 | 3 | A World of Varieties + Flavor Profiles | PENDING | — | — | Needs Randall's personal tasting notes |
 | 4 | Choosing the Right Fig for You | PENDING | — | — | |
 | 5 | Planting and Growing Figs Right | PENDING | — | — | |
-| 6 | Pests, Diseases & Troubleshooting | PENDING | — | — | NEW chapter added May 24, 2026 |
+| — | **INTERLUDE: The Orchard Patrol** | PENDING placement | DRAFT | PENDING | Randall's original writing — unedited; proposed between Ch. 5 and Ch. 6 |
+| 6 | Pests, Diseases & Troubleshooting | PENDING | — | — | |
 | 7 | Feeding Your Figs | PENDING | — | — | Feed_The_Fig_v4 is primary reference |
 | 8 | Propagation — Making More of What You Love | PENDING | — | — | Research notes complete |
 | 9 | Getting Through Winter | PENDING | — | — | |
