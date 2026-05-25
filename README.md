@@ -1,8 +1,11 @@
-# The Fig Book — Randall White / Flomaton Famous LLC
+# The Backyard Fig
+## A Complete Grower's Guide to Varieties, Propagation, Fertilizing, and Year-Round Care
+
+**Author:** Randall White / Flomaton Famous LLC
 
 A complete, publishable fig book combining practical growing knowledge, personal nursery
-experience, historical context, biblical references, and the story of building a fig
-collection and backyard nursery in Alabama.
+experience, historical context, and the story of building a fig collection and backyard
+nursery in Alabama.
 
 ---
 
@@ -50,7 +53,7 @@ Alabama Nursery Number: 182
 
 ## Current Status
 
-Planning phase. Title, Table of Contents, and Chapter 1 outline in progress.
+Chapter 1 APPROVED. Chapter 2 drafted — awaiting review. Chapters 3–13 pending.
 
 ---
 

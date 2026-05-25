@@ -31,8 +31,8 @@
 | Target pages | LOCKED | 240 pages |
 | Target word count | LOCKED | ~62,000 words |
 | Photos | LOCKED | Yes — integrated; shot list in PHOTO_SHOTLIST.md |
-| Title | CONFIRMED | *The Backyard Fig* |
-| Subtitle | CONFIRMED | *History, Faith, Family, and Practical Growing from a Real Alabama Nursery* |
+| Title | **LOCKED** | *The Backyard Fig* |
+| Subtitle | **LOCKED** | *A Complete Grower's Guide to Varieties, Propagation, Fertilizing, and Year-Round Care* |
 | Tone & Style | LOCKED | Warm, readable, practical, personal — per STYLE_GUIDE.md |
 | Table of Contents | CONFIRMED | 13 chapters + Appendix — see PROJECT.md |
 | Biblical content approach | CONFIRMED | Woven into Ch. 1 only — fully handled, no further sections |

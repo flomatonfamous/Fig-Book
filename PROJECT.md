@@ -48,10 +48,12 @@
 
 ---
 
-## Book Title (CONFIRMED)
+## Book Title (LOCKED — May 24, 2026)
 
 **Title:** The Backyard Fig
-**Subtitle:** History, Faith, Family, and Practical Growing from a Real Alabama Nursery
+**Subtitle:** A Complete Grower's Guide to Varieties, Propagation, Fertilizing, and Year-Round Care
+
+> **Full title:** *The Backyard Fig: A Complete Grower's Guide to Varieties, Propagation, Fertilizing, and Year-Round Care*
 
 ---
 
