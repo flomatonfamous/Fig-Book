@@ -77,6 +77,12 @@ A complete, publishable fig book that combines:
 - Encouraging without being preachy
 - Chapter 1 length is locked — do not shorten it; exceed word count in later chapters if needed
 - **Every chapter opens with a short personal paragraph** (2–4 sentences) in Randall's voice — a memory, observation, or moment from the orchard or nursery — before moving into instruction. This applies to all chapters, including technical ones. The book should feel like a person teaching, not a manual with a memoir attached.
+- **No em-dashes.** Use commas to set off clauses and phrases. Never use " — " in the manuscript.
+- **No superlative adverbs or verbs.** Avoid words like dramatically, remarkably, entirely, essentially (when used for emphasis), aggressively, extraordinarily. Say what it does plainly.
+- **7th–8th grade reading level.** Plain vocabulary. Short sentences where they land well. No academic or flowery language.
+- **Conversational and direct.** Write the way Randall talks: practical, grounded, real. Common language over technical language wherever possible.
+- **Light humor throughout.** Not forced jokes, but a natural dry wit. Real-world examples. The tone is knowledgeable and approachable, not stiff.
+- **Not dramatic.** Avoid poetic descriptions or theatrical phrasing. If it sounds like a nature documentary, rewrite it.
 
 ---
 
@@ -102,7 +108,7 @@ A complete, publishable fig book that combines:
   personal confirmation of his experience with that variety
 - Notable groupings in the collection: LSU series (8 varieties), Col De Dame series
   (7 varieties), Mediterranean classics, collector/named varieties
-- One caprifig in collection: Stripped Butler (non-edible, used for pollination)
+- Caprifigs in collection: Stripped Butler, LSU DC-6, and Capri-Q (non-edible, used for pollination — confirmed May 26, 2026)
 - "Smith" confirmed as one variety listed twice — treat as single entry
 - "Hardy Chicago" confirmed same variety as "Chicago Hardy" — one variety
 - Total collection is approximately 200 varieties; this 82-variety list is the confirmed
