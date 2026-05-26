@@ -76,6 +76,7 @@ A complete, publishable fig book that combines:
 - Personal, useful, and trustworthy
 - Encouraging without being preachy
 - Chapter 1 length is locked — do not shorten it; exceed word count in later chapters if needed
+- **Every chapter opens with a short personal paragraph** (2–4 sentences) in Randall's voice — a memory, observation, or moment from the orchard or nursery — before moving into instruction. This applies to all chapters, including technical ones. The book should feel like a person teaching, not a manual with a memoir attached.
 
 ---
 
@@ -286,8 +287,40 @@ Chapter 7. See `research/feed-the-fig-reference.md`. Draw from it directly.
 **Chapter 12 frame (LOCKED):** Randall's personal journey from hobby to side income to
 potential retirement/full-time business. NOT a generic "how to start a nursery" chapter.
 
-**Appendix (LOCKED):** Included. Contains glossary, variety quick-reference by climate,
-sources & credits for all information used in the book, and grower resources.
+---
+
+## Chapter-Specific Writing Notes (LOCKED — May 26, 2026)
+
+These notes sharpen the focus of specific chapters based on structural review. Apply when drafting.
+
+**Chapter 3 vs. Chapter 4 distinction (critical):**
+Ch. 3 is the catalog — encyclopedic and descriptive. "Here is what exists."
+Ch. 4 is the decision chapter — almost a flowchart in approach. "Here is what's right for *you.*"
+The opening lines of each chapter must draw this line clearly. No overlap.
+
+**Chapter 5 — Planting and Growing Figs Right:**
+This chapter carries heavy content. Within the 5,000-word target, the following must each receive dedicated named sections with real depth — not just passing mentions:
+- Watering: rhythms, signs of overwatering vs. underwatering, how water interacts with fertilizing decisions, special treatment for container growers. Water management is the #1 cause of fig failure.
+- Pruning philosophy: fig-specific, not generic fruit tree advice. Cover the breba-vs-main-crop tradeoff in pruning decisions, container size management pruning, and renewal pruning for old wood.
+
+**Chapter 9 — Getting Through Winter:**
+Cold hardiness must go beyond USDA zone listings. Cover: how figs actually die (tip dieback vs. root kill), what "root hardy to zone 6" means in practice for container growers, and how mulching and garage/garage-alternative storage change the math by zone. Unify what is currently scattered across general sources.
+
+**Chapter 11 — Building a Fig Collection:**
+Two areas must receive full treatment:
+1. The online fig community ecosystem: forums (GardenWeb/Houzz fig threads), Facebook groups, the IAS (International Fig Society), FigBid culture, how to evaluate sellers and listings, and counterfeit/misnamed variety issues. This community is a major reason the hobby has grown — write about it authentically from Randall's position inside it.
+2. The emotional and psychological side of collecting: why people end up with 40 varieties, FOMO around rare releases, community identity, the obsession. Name it honestly. This is the passage that gets shared on Facebook groups.
+
+**Appendix (LOCKED — expanded May 26, 2026):** Included. Full contents:
+- Glossary of fig terms
+- Variety quick-reference by climate/zone
+- Sources & credits for all information used in the book (popular nonfiction attribution style)
+- Grower resources (extension services, community links, recommended reading)
+- **Seasonal care calendar** — month-by-month care guide, zone-adjusted for South vs. North
+- **Container and soil mix reference** — mix recommendations by growth stage; pot sizing progression
+- **Propagation timing guide** — when to take cuttings, air layer, and graft by region
+- **Variety naming and synonym guide** — same variety sold under multiple names, regional synonyms, LSU naming conventions, how to evaluate seller claims and navigate variety identity confusion; written from Randall's direct experience as a collector and seller
+- **FAQ from the nursery** — most-asked questions from Randall's actual customers and community; the lived knowledge no other fig book has
 
 ---
 
@@ -301,4 +334,4 @@ sources & credits for all information used in the book, and grower resources.
 
 ---
 
-*Last updated: May 24, 2026*
+*Last updated: May 26, 2026*
