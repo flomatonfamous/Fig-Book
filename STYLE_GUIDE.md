@@ -2,10 +2,11 @@
 
 > These are the canonical writing rules for every chapter of this book.
 > The ghostwriter must follow these before drafting any section.
+> **Also read:** `research/randall-voice-profile.md` (Randall's voice from manuscript + YouTube transcripts).
 
 ---
 
-## Voice & Tone
+## Voice & Tone (Randall's voice — locked May 26, 2026)
 
 - Write as if Randall White is speaking directly to the reader — warm, direct, experienced
 - Avoid generic AI gardening language ("ensure," "vibrant," "thriving," "bountiful," "lush")
@@ -13,6 +14,10 @@
 - The book should feel like it comes from someone who has actually grown figs in Alabama heat,
   propagated hundreds of cuttings, and spent real time around trees
 - Practical comes first. Inspiration follows from practical truth — not from abstract cheerleading
+- **No em-dashes.** Use commas.
+- **No superlative adverbs** (dramatically, remarkably, entirely, etc.).
+- **7th–8th grade reading level.** Common talk, real examples, light humor — not dramatic.
+- See `research/randall-voice-profile.md` for canonical sentence examples from Randall's own edits.
 
 ## What the Tone Is NOT
 

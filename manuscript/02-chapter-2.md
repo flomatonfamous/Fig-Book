@@ -170,8 +170,8 @@ insects, except that figs do attract the ones you don't really want, fruit flies
 I have a few caprifigs in my collection, the Stripped Butler, LSU DC-6, and Capri-Q, and
 they're there for a specific reason. Caprifigs produce pollen, and for any grower
 experimenting with varieties that benefit from it, having a pollen source on hand is
-useful. But even that is rarely necessary for the standard collection of common fig
-varieties most growers build.
+useful, and it changes the fig flavor but more on that later. Having a male fig is rarely necessary for the standard collection of common fig
+varieties most growers collect.
 
 For the record: in the rare cases where wasps do enter a fig, the fig's own enzymes break
 down the wasp completely before the fruit is anywhere near ripe. There's nothing present
@@ -241,14 +241,16 @@ The most reliable sign is the neck droop. As a fig gets close to ripe, the weigh
 causes the stem to bend right where it meets the branch. A fig pointing outward or upward
 still has time. A fig hanging straight down with a soft, drooping neck is right at or near
 peak. Once you know to look for it, this one sign will save you more bad picks than
-anything else you'll read in this book.
+anything else you'll read in this book. You can also tell by the popular "FigCrack", when
+the outside of the fig starts cracking and the skin splits a little, showing the white
+flesh. Just don't let the moisture ruin it before you get to pick it.
 
 Color is variety-specific but real. Brown and purple varieties get darker and the skin
 softens. Green varieties pick up a yellowish tint or a slight golden look when they're
 close. Yellow and gold varieties go more translucent. Most varieties also give a little
 under gentle pressure when they're ready, not mushy, but not firm either. A rock-hard fig
 has days to go. A fig that gives just a little under your thumb is close. One that
-compresses with no resistance is either perfect today or a day past it.
+compresses with no resistance is either perfect today or a day past peak.
 
 Some varieties put out a small bead of syrupy liquid at the ostiole, the little opening at
 the bottom of the fig, when they're at peak. We call it fig honey. If you see it, pick

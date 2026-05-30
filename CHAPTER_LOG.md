@@ -121,6 +121,14 @@
 
 ## Session Notes
 
+### May 26, 2026 — Session 5
+- Randall continued editing Chapter 2 (caprifig flavor note, FigCrack ripeness cue, collect vs. build wording)
+- Chapter 2 edits saved to manuscript; FigCrack typo fixed (white flesh)
+- Created `Youtube Transcripts/` folder and ingest workflow
+- Created `research/randall-voice-profile.md` and `research/youtube-content-notes.md`
+- **Transscripts file not found in repo yet** — rerun ingest when file is saved in `Youtube Transcripts/`
+- Next step: Randall saves transcript file; ingest voice + facts; Randall finishes Ch. 2 opening
+
 ### May 26, 2026 — Session 4
 - Chapter 2 full draft completed (~4,400 words)
 - Personal opening paragraph left as placeholder — Randall to write after reading the chapter
