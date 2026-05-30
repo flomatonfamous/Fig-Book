@@ -209,11 +209,12 @@ you're picking out varieties for a backyard orchard, it's worth knowing which ty
 working with, not because one is better than the other, but so you know what to expect
 and when.
 
-*[RANDALL'S STORY: If you have a specific variety that gives you a standout breba crop, or
-one where you've watched the two-crop cycle play out in a way you remember, add a sentence
-or two here. Something like: "In my orchard, [variety] gives me the best breba every year,
-big fruit, good set, and they're usually ready before most people have even started paying
-attention to their trees." Your specific example would make this real for the reader.]*
+In my orchard, LSU DC-6 is the first tree to give me figs every year. That first wave
+of fruit coming off the old wood in May or June, that's the breba crop doing its thing.
+I'll be honest — I don't spend much time chasing varieties known specifically for breba
+production, because to me the main crop just tastes better. But there are exceptions.
+Desert King, for instance, only ever makes a breba crop, and it's one of the best-tasting
+ones in my collection. Every rule has a fig that'll make you rethink it.
 
 In colder climates where a fig gets cut to the ground by winter freezes, breba production
 is gone, because there's no old wood left to carry it. That's one of the real reasons
