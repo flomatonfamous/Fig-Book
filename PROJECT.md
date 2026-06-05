@@ -173,13 +173,19 @@ create copyright issues or introduce inaccuracies.
    This is locked. Do not frame biblical references as Randall's personal faith experience.
 6. **Chapter 1 opening text is Randall's own.** It was lightly polished, not rewritten.
    Do not substantially change its voice or content without his instruction.
-7. **At the start of every session, re-read PROJECT.md, CHAPTER_LOG.md, and
-   `research/randall-voice-profile.md`** before drafting anything. Do not rely on
-   conversation memory alone. When YouTube transcripts are in `Youtube Transcripts/`,
-   also check `research/youtube-content-notes.md` for ingested facts and stories.
-8. **No chapter is approved until Randall explicitly says so.** "Looks good" is not approval.
+7. **At the start of every session, re-read PROJECT.md, CHAPTER_LOG.md,
+   `research/randall-voice-profile.md`, and `research/transcript-ingest-rules.md`**
+   before drafting anything. Do not rely on conversation memory alone. When YouTube
+   transcripts are in `Youtube Transcripts/`, also check `research/youtube-story-bank.md`
+   (personal stories) and `research/youtube-content-notes.md` (topic notes).
+8. **YouTube transcripts: stories yes, facts no (unless verified).** Transcripts supply
+   voice, personal anecdotes, and chapter opening/closing material. They do **not**
+   override research notes, extension guides, or locked PROJECT.md facts. When transcript
+   conflicts with research, **research wins**. Do not treat Randall's on-camera statements
+   as book facts without verification. See `research/transcript-ingest-rules.md`.
+9. **No chapter is approved until Randall explicitly says so.** "Looks good" is not approval.
    The word "approved" or equivalent must appear in the conversation.
-9. **Credit all sources.** When information comes from a university extension service,
+10. **Credit all sources.** When information comes from a university extension service,
    research study, or published source, track the credit in the chapter's research notes
    and carry it into the Appendix sources section. Popular nonfiction attribution style —
    not academic citation format. Examples of how to credit:
@@ -197,8 +203,11 @@ create copyright issues or introduce inaccuracies.
 
 1. Do not write the whole book at once. One chapter at a time.
 2. Before drafting each chapter, present a chapter plan for Randall's approval.
-3. Ask for personal stories, examples, fig varieties, family details, or growing experiences before drafting.
-4. Do not invent personal stories. Do not claim Randall experienced something unless he confirmed it.
+3. For personal stories: check `research/youtube-story-bank.md` and Randall's approved
+   manuscript first. Ask Randall before inventing. Farm openings/closings from story bank
+   as drafts marked for his review — never paste transcript text.
+4. Do not invent personal stories. Do not claim Randall experienced something unless it
+   appears in approved manuscript, story bank (as his experience), or he confirmed it.
 5. Do not invent historical or biblical facts. Flag anything needing accuracy verification.
 6. Keep writing practical and grounded in real fig-growing experience.
 7. Preserve all locked decisions recorded in this file.

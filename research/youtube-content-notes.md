@@ -1,8 +1,11 @@
 # YouTube Transcript — Content Notes for the Book
 
-> Ingested May 30, 2026 from `Youtube Transcripts/Transscripts.txt`
-> Five videos: two orchard tours (2024 & 2025 seasons), propagation tutorial, cuttings vs. trees, orchard planting day.
-> Do NOT paste transcript text into the manuscript. Synthesize into original prose in Randall's voice.
+> Topic notes from Flomaton Famous videos. **Not a fact authority.**
+> Personal stories → `research/youtube-story-bank.md`
+> Rules → `research/transcript-ingest-rules.md`
+> When this file conflicts with `research/*.md` or extension guides, **research wins**.
+
+**Tag key:** `[STORY]` narrative · `[VOICE]` style · `[EXPERIENCE]` his orchard only · `[FACT-CANDIDATE]` verify first · `[CONFLICT]` do not use as fact
 
 ---
 
@@ -10,9 +13,9 @@
 
 | Item | Status |
 |------|--------|
-| Transcript file located | COMPLETE — `Youtube Transcripts/Transscripts.txt` |
+| Transcript files | `Transscripts.txt`, `angelito-greenhouse-early-fruit-may.txt`, `orchard-tour-july-1-fig-collection-origin.txt`, `spring-fig-freeze-update-april.txt`, `fig-gathering-sunset-louisiana-first-vendor.txt`, `dr-gawadi-tasting-michelle-first-tasting.txt`, `orchard-drip-irrigation-trenching-nrcs-grant.txt` |
 | Voice patterns extracted | COMPLETE — see `randall-voice-profile.md` |
-| Chapter mapping below | COMPLETE — reviewed all five videos |
+| Story bank | `youtube-story-bank.md` — updated per file |
 
 ---
 
@@ -36,10 +39,10 @@
 
 | Variety | Opinion / observation | Notes |
 |---------|----------------------|-------|
-| LSU Scots Black | "Must have. Excellent flavor. Tastes like strawberry jam." — Michelle agreed | Top recommendation |
+| LSU Scots Black | "Must have. Excellent flavor. Tastes like strawberry jam." — Mechelle agreed | Top recommendation |
 | LSU Purple | "Probably one of my least favorite figs in the entire orchard, but it's still a good fig." Amber interior, takes 2 years to produce well | Honest mixed review |
 | LSU Tibido | "One of my favorites out of the LSU fig breeding program" along with St. Gabriel and Scots | Top LSU variety in his opinion |
-| St. Rita | Michelle's favorite. "Just as good as Marseilles Black VS." | Strong personal endorsement |
+| St. Rita | Mechelle's favorite. "Just as good as Marseilles Black VS." | Strong personal endorsement |
 | Marseilles Black VS | "That's good." Equal to St. Rita, excellent quality | Confirmed great |
 | Red Lebanese Baka Valley | "Loads up with figs at every single node." Just as good as Marseilles Black VS at same ripeness | Very productive and high quality |
 | Cherry Cordial | "One of my favorites out of the entire orchard" — loves the leaf shape, red veining on stems, good dark figs | Aesthetic and flavor favorite |
@@ -199,5 +202,278 @@
 
 ---
 
-*Ingested: May 30, 2026*
-*Source: 5 Flomaton Famous YouTube videos — orchard tours 2024 & 2025, propagation tutorial, cuttings vs. trees, orchard planting day*
+## VIDEO: Angelito early May fruit + greenhouse (`angelito-greenhouse-early-fruit-may.txt`)
+
+**Ingested:** June 4, 2026
+
+### For stories / voice (use in manuscript after Randall review)
+
+| Tag | Note | Target chapter |
+|-----|------|----------------|
+| `[STORY]` | Greenhouse + early start = May ripening in deep South; held fall-set fruit through winter above freezing | Ch. 9, Ch. 10 |
+| `[STORY]` | Angelito fruit set on **new wood** in fall, held over winter — **not breba**; contrast with Brown Turkey on lignified wood | **Ch. 2 breba section** |
+| `[STORY]` | Picked before rain; gushy fig; closed eye vs. water spoilage; fig crack, color change, hang, sap check | Ch. 2, Ch. 10 |
+| `[STORY]` | First taste of Angelito on camera; grafting knife; Adriatic green/red/strawberry **his opinion** | Ch. 3 (if variety confirmed in collection) |
+| `[STORY]` | Matt King gave tree; FigBid + Facebook to source rare figs | Ch. 11 |
+| `[VOICE]` | Opens windy — turns back to wind; "resident fig tree collector and fig taster" | Openings |
+
+### Experience only (not universal facts)
+
+- Heater in greenhouse just above freezing to keep fruit from dropping
+- Angelito in ground ~2 weeks, ~90° day, fruit ripe (his timeline that year)
+- May 10 sampling; expects fruit through the year with greenhouse head start
+- Three new orchard rows; mulch with compost; irrigation still going in
+
+### Fact-candidates — verify before factual use
+
+| Claim on video | Action |
+|----------------|--------|
+| Angelito is Adriatic type, strawberry flavor | Randall confirm for Ch. 3; check `fig-varieties.md` |
+| Angelito not a breba variety | OK as his teaching point; verify variety profile if cited as fact |
+| "150 varieties now" | `[CONFLICT]` — other video said 142; use only as "in my orchard at the time" if at all |
+| Greenhouse = secret to early ripening | Regional **experience**, not book science — Ch. 9 framing |
+
+### Do NOT use as book facts without research
+
+- Universal claim that greenhouse growing is required for early figs
+- 9/10 rating or "must-have" as objective variety ranking (subjective on camera)
+- Variety count (150) as locked collection size
+
+---
+
+---
+
+## VIDEO: July 1, 2023 complete orchard tour (`orchard-tour-july-1-fig-collection-origin.txt`)
+
+**Ingested:** June 5, 2026  
+**YouTube:** [COMPLETE Fig Tour](https://www.youtube.com/watch?v=-ppyh1USlws) (`-ppyh1USlws`)  
+**Raw plant-by-plant list:** full variety walk in transcript file — do not duplicate every tree here; use story bank + `fig-varieties.md` for book picks.
+
+### High-value stories (manuscript candidates)
+
+| Tag | Note | Target chapter |
+|-----|------|----------------|
+| `[STORY]` | Military retirement → Egypt market fig memory → Google search → grandmother's Brown Turkey | Ch. 1, Ch. 12 |
+| `[STORY]` | figs4fun forum discovery; swapping culture; FigBid; fall 2021 collection ramp-up | Ch. 11 |
+| `[STORY]` | New property spring 2023; February plant; March 27° freeze; covered trees; lost only BB10 | Ch. 9 |
+| `[STORY]` | Front orchard 17° × 4 days — to ground; Chicago Hardy partial survivor; Auroric lost | Ch. 9 |
+| `[STORY]` | No back-orchard irrigation yet (~300 ft buried pipe planned); rain + feed = growth | Ch. 5 |
+| `[STORY]` | Overnight fig theft — bag or stake out; rabbit vs. possum/raccoon | Ch. 6 |
+| `[STORY]` | Goat-wire shade propagation racks; kiddie-pool vacation watering | Ch. 8 |
+| `[STORY]` | California Brown Turkey bucket-behind-shed resurrection | Ch. 8, Ch. 11 |
+| `[STORY]` | Panama City unknown from homesteaders grafting class | Ch. 11 |
+| `[STORY]` | Geneery air layer → gift to Mr. Milton / Watkinsville fig event | Ch. 11 |
+| `[STORY]` | Stripped Butler caprifig for future pollination | Ch. 2 teaser |
+
+### Experience-only variety notes (July 2023 — not book facts until confirmed)
+
+| Variety | On-camera note | Action |
+|---------|----------------|--------|
+| Adelio's purple | Favorite fig last year in orchard | Randall confirm for Ch. 3 |
+| Cherry Cordial | Rock star growth; red stems; cherry notes rumored | Confirm flavor |
+| Sunrise (CA unknown) | Best grower in orchard; workhorse not mind-blowing taste | Experience |
+| Nebo | Workhorse producer; not excited about taste | Experience |
+| Cadum Ramada | Prettiest ornamental stripes; untasted | Experience |
+| Black Celeste | Fig at every node; community hype (Ross cited) | Confirm variety + taste |
+| Scott's Black | Very prolific; cold-snap concern from community | Experience |
+| Colonel Littman's Black Cross | 2+ years, no fruit; good air-layer parent | Experience |
+| Creme de la Fragola | Mosaic; may replace | Ch. 6 |
+| Tena | Tissue-culture Black Madeira mix-up | Appendix mislabeling |
+| Smith | Two trees (only duplicate); Texas BA1 from Edibles Landscaping VA | Cold substitute arc |
+
+### Fact-candidates / conflicts
+
+| Claim on video | Action |
+|----------------|--------|
+| July 1 = first ripe fig in his area | OK as regional **experience** |
+| 5×15 rows + sixth planned (~75+ in ground, 2023) | `[CONFLICT]` vs 142/150 in later videos — snapshot only |
+| 27° March freeze vs 17° × 4 days front orchard vs 15° Oct 2025 tour | **Different events/years** — never merge into one freeze story |
+| Black Madeira "best tasting" hype | Subjective community talk — not book fact |
+| Angelique from Jefferson estate | `[FACT-CANDIDATE]` — verify before historical claim |
+| "I'm a nursery now" (July 2023) | Verify license/timing with Randall for Ch. 12 |
+| LSU varieties always come back from roots | Experience framing only — not universal hardiness |
+
+### Community names (verify spelling before print)
+
+figs4fun (retired), FigBid, fig swap Chattanooga TN, Watkinsville GA (Mr. Milton), Edibles Landscaping (Virginia), Cajun B / Brian, Mike / figs in GA, David the Good, MJ figs, Larry Stevenson, Gulf Breeze FL downsizing seller, Ross (community reference re: Black Celeste)
+
+---
+
+---
+
+## VIDEO: April 2023 spring update after freeze (`spring-fig-freeze-update-april.txt`)
+
+**Ingested:** June 5, 2026  
+**YouTube:** [Extreme Weather Helped and Harmed our Trees!](https://www.youtube.com/watch?v=VWzy6vSqPmU) (`VWzy6vSqPmU`)  
+**Filmed:** April 19, 2023 (on-camera date)  
+**Pairs with:** March 2023 freeze unwrap video (referenced); July 1, 2023 orchard tour
+
+### High-value stories (manuscript candidates)
+
+| Tag | Note | Target chapter |
+|-----|------|----------------|
+| `[STORY]` | Glacia Negra: wrapped wood died, unwrapped wood fine — side shoots from exposed wood | **Ch. 9 winter protection** |
+| `[STORY]` | Freeze cost ~3 weeks of spring growth | Ch. 9 |
+| `[STORY]` | BB10 lost; Kathleen's black candidate for that slot | Ch. 11 |
+| `[STORY]` | Fig tasting brainstorm: Mechelle, next year, weekends, ~10 guests, 75 varieties | Ch. 11 / Ch. 12 |
+| `[STORY]` | Hay mulch beats bare ground for young figs | Ch. 5 |
+| `[STORY]` | Brown Turkey on property — freeze may wipe year's crop | Ch. 1 supplement / Ch. 9 |
+| `[STORY]` | December freeze → front orchard to ground; fish emulsion + triple 13 rebound | Ch. 9 |
+| `[STORY]` | Cajun B's DC-6 brebas ripe; Randall's not yet — early breba year, cold spring | Ch. 2 |
+
+### Experience-only notes
+
+| Topic | On-camera claim | Action |
+|-------|-----------------|--------|
+| Nebo | Caramel type; good performer in pot; not favorite flavor; Brown Turkey remind | Ch. 3 if confirmed |
+| Colonel Littman's Black Cross | Unbothered by freeze | Experience |
+| Dr. Gowaty | Doubled size in ~5 weeks in ground | Experience |
+| Beehives | New hive; calm; mow adjacent | Ch. 5/6 color |
+| Fifth row | Young plants need mulch bedding | Orchard arc |
+
+### Fact-candidates / conflicts
+
+| Claim on video | Action |
+|----------------|--------|
+| 75 varieties in ground (April 2023) | Snapshot — grew by July 2023 tour |
+| December hard freeze (front orchard) vs 17°×4 days (July tour) vs March 27° | **Do not merge** — verify one winter narrative with Randall |
+| Fig tasting "next year" (2024?) | Evolved to later festival plans — verify timeline for Ch. 12 |
+| "Cajun bees" / Linda Sanchez on Facebook | Likely **Cajun B** — verify name spelling |
+| Granny Smith / Fuji / Gala suffering in 8b | OK as his orchard experience for non-fig sections if used |
+
+### Non-fig content (store only — not primary book material)
+
+Apple/pear/kiwi/grape rows, Shell apple propagation, Warren pear 6-year wait, Shiro plum, peach grafting, nectarine fungus/fire blight uncertainty, goats, garden tour, Mechelle hip recovery — useful for Ch. 12 homestead texture if Randall wants it.
+
+---
+
+---
+
+## VIDEO: First vendor fig gathering — Sunset, Louisiana (`fig-gathering-sunset-louisiana-first-vendor.txt`)
+
+**Ingested:** June 5, 2026  
+**Source:** User paste with chapter timestamps (YouTube URL not confirmed — search Flomaton Famous + Terry LeBlanc Sunset)  
+**Event:** Terry LeBlanc + Miss Lubbie LeBlanc fig gathering, Sunset, Louisiana
+
+### High-value stories (manuscript candidates)
+
+| Tag | Note | Target chapter |
+|-----|------|----------------|
+| `[STORY]` | **First time as vendor** — spreadsheet inventory, trees for sale | **Ch. 11 / Ch. 12** |
+| `[STORY]` | Goat-wire rack: 1×6 frame, 4×4 wire, 10×6 grid, 4×4 pots; alphabetical load; shuffle disaster at event | Ch. 12 hauling |
+| `[STORY]` | Post-event fix: tray handles + wire to bottom — lift whole tray, stay alphabetized | Ch. 12 practical tip |
+| `[STORY]` | Mike's milk crates — 9 trees per crate | Ch. 12 alternative |
+| `[STORY]` | Facebook pre-trades — publish bring-list, negotiate before arrival | Ch. 11 |
+| `[STORY]` | 7 new varieties traded home (LSU DC-2, Val Vertilina Del Nord named); bought from Terry | Ch. 11 |
+| `[STORY]` | Online friends → in-person; regional events, keep connections | Ch. 11 close |
+| `[STORY]` | Terry host — Black Celeste source; didn't bring duplicate to his event | Ch. 11 Terry thread |
+
+### Experience / voice
+
+| Topic | Note |
+|-------|------|
+| Cherry Cordial | High demand at event — bring several |
+| Bergen unknown | Bring one even if not pre-requested |
+| Mayhaw jelly | "Best jelly you ever put in your mouth" — voice/humor |
+| Venue | Horse stables, shade oaks, ~75° day, Bayou Wilderness campground |
+| Michael | LSU breeding (pecans) — not fig program |
+
+### Fact-candidates — verify before print
+
+| Claim | Action |
+|-------|--------|
+| Terry LeBlanc = same Terry who gave Red Book (orchard tour) | Randall confirm |
+| Miss Lubbie vs Miss Kitty vs Lubie — host name spelling | Verify |
+| LSU DC-2, Val Vertilina Del Nord spellings | Check `fig-varieties.md` |
+| "7 new varieties" exact count/list | Experience — confirm if cited as fact |
+| Red fig variety bought from Terry (unnamed on video) | Identify before Ch. 3 |
+
+### Do NOT use as universal facts
+
+- Mayhaw = objectively best jelly (on-camera opinion)
+- Milk crate / goat-wire as only correct hauling method (his experience)
+- All regional gatherings identical format
+
+---
+
+---
+
+## VIDEO: Dr. Gowaty tasting — Mechelle first on-camera taste (`dr-gawadi-tasting-michelle-first-tasting.txt`)
+
+**Ingested:** June 5, 2026  
+**Source:** User paste (opening line duplicated in paste — single video)
+
+### High-value stories (manuscript candidates)
+
+| Tag | Note | Target chapter |
+|-----|------|----------------|
+| `[STORY]` | First fig tasting video format — weigh, halve, describe | **Ch. 10** |
+| `[STORY]` | Breba on last year's wood — not main crop; large 47.2g breba on tiny tree | **Ch. 2** |
+| `[STORY]` | Mechelle converts on a "sugar fig" — finishes whole fig (unusual for her) | Ch. 3, Ch. 10 |
+| `[STORY]` | Crows vs. rabbit for pre-ripe fig theft | Ch. 6 |
+| `[STORY]` | Pastor Mitch picked Dr. Gowaty; LSU Purple gift; Israel fig collector thread | Ch. 11 |
+| `[STORY]` | Figuerama Watkinsville GA | Ch. 11 |
+
+### Flavor notes — `[EXPERIENCE]` only (Randall + Michelle)
+
+| Person | Dr. Gowaty notes |
+|--------|-----------------|
+| Mechelle | Melon, cantaloupe, melon-berry; soft; not strong; refreshing; better than other honey figs; **1.5/2 thumbs** — not Saint Rita level |
+| Randall | Pretty good; prefers berry figs (Dominic Italian, Danny's Delight tier) |
+| Mechelle palate | Loves dark/berry: Saint Rita, Dominic Italian, Danny's Delight. Dislikes: White Marseilles, yard Brown Turkey, typical honey/yellow figs |
+
+### Fact-candidates / do not use as book facts
+
+| Claim | Action |
+|-------|--------|
+| Dr. Gowaty brought from Israel by namesake | Verify variety history if cited as fact |
+| Pastor Mitch / Jesus fig tree anecdote | Personal story only — **not** Ch. 1 biblical history |
+| "Sugar fig" = honey type for Dr. Gowaty | Teaching frame — check `fig-varieties.md` |
+| Open eye on sampled fig | Ch. 2 FigCrack/harvest context as experience |
+
+---
+
+---
+
+## VIDEO: Orchard drip irrigation + trenching (`orchard-drip-irrigation-trenching-nrcs-grant.txt`)
+
+**Ingested:** June 5, 2026  
+**YouTube:** [Best Backyard Orchard Drip Irrigation System](https://www.youtube.com/watch?v=5iXzrgOPg5I) (`5iXzrgOPg5I`)
+
+### For Ch. 5 — planting & growing (primary)
+
+| Topic | Randall's system (experience) |
+|-------|------------------------------|
+| Mainline | Shallow trench (~4 in) per fig row; grass/mower safe; buried under mulch |
+| Emitters | ¼" tubing, 1 emitter/ft, 0.3 gph; ~2 ft ring = 8 emitters per tree |
+| Connections | EarthTech spin-lock; propane torch softens tubing ends; punch + coupler tool |
+| Pressure | 15 psi reducer per zone; 80 micron filter; loop + 3-way for even pressure |
+| Pipe sizing | 1" from well to barn; pressure-loss math drove upgrade from ¾" |
+| Mulch | Hay over drip rings — sun + mower protection |
+| Winter | Shut well, drain exposed lines; shallow bury OK in South AL |
+
+### Stories
+
+| Tag | Note | Chapter |
+|-----|------|---------|
+| `[STORY]` | Pull-trencher trauma — 12 hrs, blisters, never again | Ch. 5 |
+| `[STORY]` | Rental trencher 700 ft in 2.5 hrs | Ch. 5 |
+| `[STORY]` | Bee suit — trencher upset hive at orchard end | Ch. 5/6 |
+| `[STORY]` | Fulfills July 2023 "300 ft pipe future project" arc | Ch. 5 narrative |
+
+### Ch. 12 / fact-candidates
+
+| Claim | Action |
+|-------|--------|
+| NRCS reimburses high tunnel + up to 1 acre irrigation (~$11k, ~$200 OOP) | `[FACT-CANDIDATE]` — verify program rules; don't generalize as always available |
+| Drip Depot ~$1k; 3,000 ft total drip | His project scale — not universal |
+| Fig fruit business "several years" away | OK as his business timeline |
+| 60 ft well, 10 ft water table, Escambia County | Local experience |
+
+### Align with existing Ch. 5 notes
+
+Oct 2025 orchard tour already notes drip rings on timers — **this video is the install origin story.** Synthesize both; don't duplicate full parts list in manuscript.
+
+---
+
+*Ingested: May 30, 2026 — batch 1; June 4, 2026 — Angelito/greenhouse video; June 5, 2026 — July 1, 2023 orchard tour; June 5, 2026 — April 2023 spring freeze update; June 5, 2026 — Sunset LA first vendor gathering; June 5, 2026 — Dr. Gawadi tasting; June 5, 2026 — drip irrigation/NRCS*

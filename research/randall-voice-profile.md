@@ -1,7 +1,7 @@
 # Randall White — Voice Profile (from manuscript + YouTube transcripts)
 
-> Living document. Updated as transcripts are ingested and as Randall edits chapters.
-> The ghostwriter must read this file before drafting any chapter.
+> Living document. Updated as Randall edits chapters.
+> **The ghostwriter must read this file before drafting any chapter.**
 
 ---
 
@@ -9,56 +9,148 @@
 
 | Source | Status | Notes |
 |--------|--------|-------|
-| Chapter 1 (approved draft) | INGESTED | Personal opening, family tone, Southern rhythm |
-| Chapter 2 (Randall edits) | INGESTED | May 2026 — caprifigs, FigCrack, plain technical voice |
-| `Youtube Transcripts/Transscripts.txt` | **INGESTED May 30, 2026** | 5 videos: orchard tours, propagation, cuttings vs. trees |
+| **Chapter 1 (Randall revision — full)** | **INGESTED June 4, 2026** | Canonical voice for narrative + historical sections |
+| Chapter 2 (Randall edits) | INGESTED | Technical/plain voice, community terms |
+| `Youtube Transcripts/Transscripts.txt` | INGESTED May 30, 2026 | Orchard, propagation, collector mindset |
+| `Youtube Transcripts/angelito-greenhouse-early-fruit-may.txt` | INGESTED June 4, 2026 | Breba nuance, greenhouse, rain harvest, tasting |
 
 ---
 
-## How Randall Speaks (locked patterns)
+## Randall's Personality on the Page
 
-### Sentence and punctuation style
-- Commas instead of em-dashes. Never use " — " in manuscript.
-- Short punchy sentences mixed with medium practical ones.
-- Direct address: "you", "your trees", "your yard" — always talking to the reader, not at them.
-- Opens sections with plain hooks: "Here's the thing...", "You might be surprised...", "Here's the answer."
-- Qualifies uncertainty plainly: "I don't know if that's typical", "from what I understand", "as far as I know."
-- Forward references that feel natural: "more on that later", "we'll get into that in the propagation chapter."
+- **Warm and direct.** Talks to the reader like someone on the porch, not a lecturer.
+- **Personal first, then practical.** Opens with memory and feeling before facts. Even history sections tie back to why it matters for growers.
+- **Southern and specific.** Hot biscuits, preserves in summer heat, Sunday visits in July, panhandle of Florida, humid South. Real food and real places, not generic "Southern charm."
+- **Honest and unpolished in a good way.** Says some LSU varieties he likes better than others. Admits the fig world is a "rabbit hole." Invites readers to adventures and **misadventures** on YouTube.
+- **Not dramatic.** No nature-documentary tone. No stacked adjectives. No preaching.
+- **Community-minded.** Sharing cuttings, stories with strangers, FigBid, propagate and share — the hobby is social.
+- **Faith and history as context, not sermon.** Biblical material is cultural and historical framing. "Whether your interest is historical, botanical, or faith" — inclusive, not personal testimony.
 
-### Vocabulary level
-- 7th–8th grade reading level. Plain words over jargon.
-- Uses correct technical terms (syconium, parthenocarpic, ostiole, lignified) then immediately explains in plain language.
-- Avoids superlative adverbs: dramatically, remarkably, entirely, essentially (for emphasis), aggressively.
-- If it sounds like a nature documentary, rewrite it.
+---
 
-### Tone
-- Warm, practical, not preachy.
-- **Admits failures and mistakes openly and without embarrassment.** This is a key trait. He talks about losing cuttings, hitting trees with the lawnmower, the waxing-both-ends experiment that bombed, the papaya that snapped. That honesty is what builds trust with readers.
-- **Self-deprecating humor.** "I'm the biggest threat to my fig orchard." "I lied to him." "I'm happily disappointed it turned out to be a good fig."
-- Talks about his wife Mechelle as a collaborator and taster. She has opinions on varieties (St. Rita is her favorite). Include her naturally where appropriate.
-- Mentions his Great Pyrenees dogs casually — they eat the ripe figs before he can get to them. Adds personality.
-- Closes videos: "Remember, keep growing, keep building, and always keep adventuring. Together, we're Flomaton Famous."
+## Sentence Structure (how Randall builds paragraphs)
 
-### Randall-specific language (use when accurate)
-- **fig honey** — nectar inside ripe figs at peak
-- **FigCrack** — the community term for skin cracking showing white flesh, a peak ripeness sign
-- **breba crop / main crop** — he pronounces it "breba" or "berea" interchangeably in speech
-- **collectors / the fig community** — not "enthusiasts" every time
-- **lower Alabama, Gulf South, Zone 8 / Zone 8b / Zone 9** — real geography, both zones appear in his videos
-- **big box store / Lowe's** — he uses these when recommending easy-to-find varieties
-- **Flomaton Famous**, **my orchard**, **my collection** — first person when it's his experience
-- **DC stands for Dead Cat** — his running joke about LSU DC-6; can appear in Ch. 3 or 11
+### Opening moves
+- **Memory hook:** "When I think about where my fig journey truly began, my mind doesn't go to..."
+- **Contrast:** what it is NOT vs. what it IS (orchard today → grandmother's backyard).
+- **List rhythm:** "part fruit source, part climbing structure, part childhood playground, and part family heirloom."
+- **Short action beats:** "I pick fruit. I gather a few cuttings. I breathe in the smell..."
+- **Pivot to the book:** "So before we get into varieties, pruning, fertilizer, or orchard design, let's take a step back..."
 
-### What Randall does NOT do
-- Stack three adjectives on every noun.
-- Invent personal stories or variety experiences not confirmed.
-- Over-explain jokes or soften humor with disclaimers.
-- Use em-dashes, "delve," "robust," "vibrant," "bountiful," "thriving."
+### Mid-chapter moves
+- **Plain fact → why it matters:** archaeology number, then "what it means."
+- **Sweep through history in chronological chunks:** Egypt, Greece, Rome, Bible — one paragraph each, no academic citations in prose.
+- **Bring it home:** "That's almost certainly how my grandparents brown turkey arrived..."
+- **Modern bridge:** ancient impulse → homesteaders → "suburban collector growing them on their patio and storing them in their garage."
+
+### Closing moves
+- **What the book promises:** patience, first bite of a fig you've "heard so much rave about," cool story behind a variety.
+- **Humble authority:** grows and enjoys the tree, shares stories, hasn't forgotten starting down the rabbit hole.
+- **Soft channel invite:** adventures beyond figs, join along — not a hard sell.
+- **Folksy send-off:** "As they often say, Let's jump right in."
+
+### Sentence types he favors
+- Medium sentences with commas, not semicolons or em-dashes (see punctuation note below).
+- Occasional intentional fragment: "Whether your interest in figs is historical, botanical, or faith."
+- "We'll cover..." for chapter previews — inclusive **we**, not "this chapter will."
+- **you** and **we** more than **I** in instructional stretches; **I** dominant in personal stretches.
+
+---
+
+## Punctuation and Grammar (match Randall, not copyeditor)
+
+| Rule | Detail |
+|------|--------|
+| **Prefer commas** | Set off clauses with commas. Avoid em-dashes in new drafting (Ch. 1 still has a few in narrative — do not add more). |
+| **No superlative adverbs** | Skip dramatically, remarkably, essentially, entirely, etc. |
+| **7th–8th grade level** | Plain words. Correct terms when needed, then plain explanation. |
+| **Colloquial grammar OK** | "could probably care less," "heard so much rave about," "some I like better than other" — match his looseness; fix only clear typos if he hasn't written that line himself. |
+| **Spelling in his draft** | He may write Genisis, mediteranian, exsisted, cousings — **use correct spelling in ghostwriter drafts** unless he locked a specific form. |
+| **Capitalization** | He often lowercases variety names in personal references: "grandparents brown turkey," "brown turkey." Use proper variety caps in catalogs; his voice may soften in personal asides. |
+
+---
+
+## Vocabulary Randall Uses
+
+### People and places (confirmed Ch. 1)
+- **Mildred** (grandmother), **Claude** (grandfather) — treasured the tree; Claude didn't care much
+- Childhood: **panhandle of Florida**, Sundays, first part of **July**, cousins climbing limbs
+- Homestead vacant, overgrown, tree still standing ~2 miles from orchard (Ch. 2)
+- **lower Alabama / humid South / Gulf Coast** — current growing context
+- **Mechelle** — wife, taster, editor (videos)
+
+### Food and culture
+- Preserves, **hot biscuits on a cold winter morning**
+- Jarring figs in summer heat as garden vegetables finish
+- First fig you've "heard so much rave about"
+
+### Collector / community language
+- **rabbit hole** — how fig collecting starts
+- **propagate it and share it**
+- FigBid, online communities, serious collectors
+- Patio growing, garage overwintering
+- Sharing stories with **strangers**
+- **adventures and misadventures** (YouTube framing)
+
+### Book / reader relationship
+- "read and enjoy, and maybe learn from"
+- "often reference rather than sitting on a shelf"
+- Not positioned as expert manual — someone who grows, enjoys, and remembers being new
+
+### Technical / community terms (Ch. 2+)
+- fig honey, FigCrack, breba / main crop, collectors, big box store / Lowe's
+- parthenocarpic, syconium, ostiole — use with plain follow-up
+
+---
+
+## What Randall Does NOT Do
+
 - Open with "In this chapter we will..."
+- Sound like Wikipedia with a warm sentence bolted on
+- Use: delve, robust, vibrant, bountiful, thriving, leverage, ensure (bureaucratic)
+- Invent family stories or variety experiences
+- Frame biblical content as personal faith testimony (historical/cultural only — LOCKED)
+- Over-polish grammar into essay English — his voice has slight rough edges
 
 ---
 
-## Canonical sentence examples (from Randall's own writing and speech)
+## Canonical Sentences (Chapter 1 — Randall's own words)
+
+Use these as rhythm and tone reference:
+
+> When I think about where my fig journey truly began, my mind doesn't go to orchard rows or propagation benches or even my nursery today.
+
+> That tree was part fruit source, part climbing structure, part childhood playground, and part family heirloom.
+
+> My introduction to figs wasn't through horticulture or research or rare varieties. It was through love, family, and the kind of simple Southern living that teaches you more than you ever appreciate at the time.
+
+> Every time I'm there, I feel like I'm standing between generations.
+
+> To grow figs is to participate in something ancient.
+
+> They weren't ornamental and they weren't a hobby, people used them for preserves and enjoyed them on hot biscuits on a cold winter morning.
+
+> That's how fig trees have always moved between people.
+
+> some I like better than other, some withstand the humid south better than other.
+
+> the satisfaction of biting into that first fig that you've heard so much rave about
+
+> what it was like to start down this rabbit hole
+
+> the adventures and misadventure on our YouTube channel
+
+> As they often say, Let's jump right in.
+
+> It's no big secret I have a greenhouse.
+
+> This isn't really considered a breba crop. We just held the same fruit through the winter.
+
+> I have no idea what this tastes like. Look how beautiful that is.
+
+---
+
+## Canonical Sentences (Chapter 2 + video)
 
 > You might be surprised to learn that the common fig actually belongs to the mulberry family.
 
@@ -66,30 +158,51 @@
 
 > If you see it, pick that fig now. Not tomorrow. Now.
 
-> Some fig trees are simply harder to kill than whatever was built around them.
-
-> it changes the fig flavor but more on that later.
-
 > Good looking plants that don't make trees ain't worth having.
 
 > I'm the biggest threat to my fig orchard.
 
-> I'm happily disappointed it actually turned out to be a pretty tasty fig.
+---
 
-> LSU DC-6 — DC stands for Dead Cat. Just like to make that known. That's just funny.
+## Recurring Story Elements (confirmed — safe to reference)
+
+| Element | Detail |
+|---------|--------|
+| Grandmother's tree | Brown Turkey, Mildred's backyard, Florida panhandle childhood |
+| Sunday / July | Figs in season, cousins climbing for ripest fruit |
+| Homestead tree | Still standing, vacant property, visits for fruit and cuttings |
+| Grandparents' Brown Turkey | Almost certainly a passed-along cutting, not nursery purchase |
+| YouTube / Flomaton Famous | Orchard, nursery, adventures beyond figs; invite to join along |
+| Dogs | Great Pyrenees eat ripe figs before Randall (video) |
+| Mechelle | Favorite fig: St. Rita (video); co-host and editor |
+| Collector arc | Rabbit hole → patio/garage → orchard → nursery |
 
 ---
 
-## Recurring story elements (confirmed from video — okay to reference naturally)
+## Drafting Checklist (every chapter)
 
-- **Mechelle** is his wife, co-host, video editor, and producer. She's a taster. St. Rita is her favorite fig.
-- **The dogs** (Great Pyrenees, one named M) roam the orchard and eat ripe figs before Randall gets to them. "The dogs are the biggest threat to my figs, not the birds."
-- **The fig gathering in Chattanooga, Tennessee** — he attends, buys trees there (got Angelique and Glacia Negra there).
-- **The papaya tree** that snapped under the weight of its own fruit (100 lbs) — good example of a garden failure story, good for the failure/humility voice.
-- **The waxing-both-ends experiment** — viewer suggestion, he tried it, 5/75 success rate, doesn't recommend it. Excellent example of his trial-and-error honesty.
-- **Working remote from home out of the barn** — changed jobs, now steps out the door after work and is straight into the nursery/greenhouse. Drives his daily involvement with the trees.
-- **ECUA composting service** in Pensacola, FL — municipal brush composting for $10/yard; that's his main potting soil source. Shows practical frugality.
+1. Open with 2–4 sentences personal or observational (Randall voice) before instruction.
+2. **Farm openings/closings from `research/youtube-story-bank.md`** — draft for Randall review; never paste transcript.
+3. **Facts from research notes only** — not from YouTube speech unless verified.
+4. Use commas, plain words, short beats where they land.
+5. Tie practical facts to real growing life (orchard, customers, humid South).
+6. Admit mixed results where honest (not every variety is a winner).
+7. Close sections with forward motion — what comes next in the book or in the season.
+8. Channel mention only at natural breaks per PROJECT.md plug rules.
 
 ---
 
-*Last updated: May 30, 2026 — full transcript ingest*
+## Transcript vs. research (LOCKED)
+
+| Use transcripts for | Do NOT use transcripts for |
+|---------------------|----------------------------|
+| Voice, humor, story shape | Botanical/historical facts |
+| Chapter open/close candidates | Variety rankings as universal truth |
+| "In my orchard" experience | Stats or zones without verify |
+| Community color (FigBid, trades) | Direct quotes in manuscript |
+
+**Conflict → research wins.** See `research/transcript-ingest-rules.md`.
+
+---
+
+*Last updated: June 4, 2026 — Ch. 1 voice + transcript rules locked*

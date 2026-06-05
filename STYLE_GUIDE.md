@@ -19,6 +19,16 @@
 - **7th–8th grade reading level.** Common talk, real examples, light humor — not dramatic.
 - See `research/randall-voice-profile.md` for canonical sentence examples from Randall's own edits.
 
+## Randall's Structure (from Chapter 1 revision — June 2026)
+
+- **Personal → historical → practical → invite.** Memory and family first; history as context; then what the book does; soft close.
+- **List rhythm:** "part X, part Y, part Z" for characterizing trees, places, or the hobby.
+- **Short beats in emotional passages:** "I pick fruit. I gather cuttings. I breathe in the smell."
+- **Bring history home:** after civilization/biblical sweep, land on Southern homestead reality (preserves, biscuits, passed-along cuttings).
+- **Honest hedging on varieties:** not all LSU (or any series) varieties are equal — "some I like better than other."
+- **Colloquial is fine:** rabbit hole, heard so much rave about, care less, misadventures.
+- **Closings:** folksy and forward — "Let's jump right in" — not formal summary.
+
 ## What the Tone Is NOT
 
 - Not preachy or over-inspirational

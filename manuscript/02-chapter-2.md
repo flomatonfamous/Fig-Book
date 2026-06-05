@@ -170,8 +170,8 @@ insects, except that figs do attract the ones you don't really want, fruit flies
 I have a few caprifigs in my collection, the Stripped Butler, LSU DC-6, and Capri-Q, and
 they're there for a specific reason. Caprifigs produce pollen, and for any grower
 experimenting with varieties that benefit from it, having a pollen source on hand is
-useful, and it changes the fig flavor but more on that later. Having a male fig is rarely necessary for the standard collection of common fig
-varieties most growers collect.
+useful, and it changes the fig flavor but more on that later. Having a male fig is rarely
+necessary for the standard collection of common fig varieties most growers collect.
 
 For the record: in the rare cases where wasps do enter a fig, the fig's own enzymes break
 down the wasp completely before the fruit is anywhere near ripe. There's nothing present
@@ -211,7 +211,7 @@ and when.
 
 In my orchard, LSU DC-6 is the first tree to give me figs every year. That first wave
 of fruit coming off the old wood in May or June, that's the breba crop doing its thing.
-I'll be honest — I don't spend much time chasing varieties known specifically for breba
+I'll be honest, I don't spend much time chasing varieties known specifically for breba
 production, because to me the main crop just tastes better. But there are exceptions.
 Desert King, for instance, only ever makes a breba crop, and it's one of the best-tasting
 ones in my collection. Every rule has a fig that'll make you rethink it.

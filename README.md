@@ -23,10 +23,14 @@ fig-book/
 │   ├── 02-chapter-2.md
 │   └── ...
 │
-├── research/              — Source notes, biblical references, historical facts
-│   ├── biblical-references.md
-│   ├── fig-history.md
-│   └── fig-varieties.md
+├── research/              — Research notes, voice profile, story bank, transcript rules
+│   ├── transcript-ingest-rules.md
+│   ├── youtube-story-bank.md
+│   ├── youtube-transcript-index.md
+│   ├── randall-voice-profile.md
+│   └── ...
+│
+├── Youtube Transcripts/   — Raw Flomaton Famous video transcripts (upload here)
 │
 └── notes/                 — Personal story prompts, session notes, ideas
     └── personal-stories.md

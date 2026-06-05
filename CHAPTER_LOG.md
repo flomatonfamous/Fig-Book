@@ -50,7 +50,7 @@
 
 | # | Working Title | Outline | Draft | Approved | Notes |
 |---|---------------|---------|-------|----------|-------|
-| 1 | The Tree That Started Everything | APPROVED | APPROVED | **APPROVED May 24, 2026** | ~2,900 words; Randall expanding Section 4 |
+| 1 | The Tree That Started Everything | APPROVED | APPROVED | **APPROVED May 24, 2026** | June 5, 2026: Figs for Fun, Ourfigs.com, Facebook groups; Mechelle intro (orchard layout, tastings, events, shipping; Saint Rita + Domnick's Italian); ~3,150 words |
 | 2 | Know Your Fig | APPROVED | DRAFT | — | Full draft complete ~4,400 words — personal opening placeholder and one story slot; awaiting Randall's additions and approval |
 | 3 | A World of Varieties + Flavor Profiles | PENDING | — | — | Needs Randall's personal tasting notes; encyclopedic/catalog chapter only — "what exists" |
 | 4 | Choosing the Right Fig for You | PENDING | — | — | Decision/flowchart chapter — "what's right for you"; must open with clear distinction from Ch. 3 |
@@ -121,6 +121,42 @@
 
 ## Session Notes
 
+### June 5, 2026 — Session 10
+- Chapter 1 saved: community paragraph (Figs for Fun, Ourfigs.com, Facebook groups); Mechelle paragraph added by Randall (partner in orchard, tastings, events, nursery shipping; favorites Saint Rita, Domnick's Italian)
+- Light typo fixes only (through, she takes full credit, partner in)
+- Chapter 1 remains approved; June 5 addendum logged
+
+### June 5, 2026 — Session 9
+- New transcript ingested: `orchard-tour-july-1-fig-collection-origin.txt` (~36 KB; YouTube `-ppyh1USlws`, filmed July 1, 2023)
+- Full plant-by-plant orchard tour + collection origin story (military/Egypt/figs4fun/FigBid, spring 2023 property, March 27° freeze, propagation area, front orchard 17° freeze)
+- New transcript ingested: `spring-fig-freeze-update-april.txt` (~20 KB; YouTube `VWzy6vSqPmU`, April 19, 2023 post-freeze update)
+- Glacia Negra wrap lesson, BB10/Kathleen's black, hay mulch, early fig tasting plan (75 varieties), DC-6 brebas vs Cajun B
+- New transcript ingested: `fig-gathering-sunset-louisiana-first-vendor.txt` — first vendor event at Terry LeBlanc's Sunset LA gathering; haul rack, milk crates, pre-trades, 7 new varieties
+- New transcript ingested: `dr-gawadi-tasting-michelle-first-tasting.txt` — first tasting video; Dr. Gowaty breba; Mechelle melon notes; crows; Pastor Mitch; Figuerama
+- New transcript ingested: `orchard-drip-irrigation-trenching-nrcs-grant.txt` — drip install, NRCS grant, trencher, emitter rings; YouTube `5iXzrgOPg5I`; **primary Ch. 5 reference**
+- Story bank + content notes updated; freeze temps and variety counts flagged as `[CONFLICT]` vs later videos
+- Rich material for Ch. 1 supplement, Ch. 5 (mulch/pre-irrigation), Ch. 6, Ch. 8–9, Ch. 11–12
+
+### June 4, 2026 — Session 8
+- New transcript ingested: `angelito-greenhouse-early-fruit-may.txt` (Angelito May fruit, greenhouse winter hold, breba nuance, rain harvest)
+- Story bank updated: Ch. 2 breba teaching story, Ch. 9 greenhouse, Ch. 10 rain/ripeness cues, Ch. 3 Angelito tasting (pending variety confirm)
+- Flagged [CONFLICT]: 150 vs 142 variety count — do not use as locked fact
+- Raw file stored in `Youtube Transcripts/`
+
+### June 4, 2026 — Session 7
+- Randall locked transcript usage rules: stories/voice from transcripts; facts from research when conflict
+- Created `research/transcript-ingest-rules.md`, `research/youtube-story-bank.md`, `research/youtube-transcript-index.md`
+- Updated PROJECT.md, STYLE_GUIDE workflow, Youtube Transcripts README
+- Existing `Transscripts.txt` mined into story bank by chapter (open/close candidates tagged)
+- Ready for additional transcript uploads — auto-index and story-bank on each new file
+
+### June 4, 2026 — Session 6
+- Randall completed full revision of Chapter 1 (opening through "What This Book Is")
+- Voice profile fully re-ingested from Ch. 1: narrative structure, Southern food culture, rabbit-hole collector framing, honest LSU hedging, colloquial grammar patterns
+- STYLE_GUIDE.md and personal-stories.md updated with confirmed Ch. 1 details (Florida panhandle childhood, preserves/biscuits, grandparents' cutting)
+- Chapter 1 remains APPROVED; revision is Randall's official voice reference for all future chapters
+- Next step: Randall continues Ch. 2 edits; ghostwriter drafts future chapters against updated voice profile
+
 ### May 26, 2026 — Session 5
 - Randall continued editing Chapter 2 (caprifig flavor note, FigCrack ripeness cue, collect vs. build wording)
 - Chapter 2 edits saved to manuscript; FigCrack typo fixed (white flesh)
@@ -175,4 +211,4 @@
 
 ---
 
-*Last updated: May 26, 2026 — Session 4*
+*Last updated: June 5, 2026 — Session 10*

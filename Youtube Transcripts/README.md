@@ -1,24 +1,47 @@
 # YouTube Transcripts — Fig Book source material
 
-Place Randall's Flomaton Famous video transcripts here for book research.
+Place Randall's Flomaton Famous video transcripts here. **Upload as many files as you want.**
 
-## Expected file
+---
 
-| File | Purpose |
-|------|---------|
-| `Transscripts` | Main transcript export (text or markdown — any extension is fine) |
+## Where to put files
 
-Additional files are welcome (one per video, `.txt`, `.md`, `.srt`). The ingest pass will read everything in this folder.
+| Location | What to upload |
+|----------|----------------|
+| This folder | `.txt`, `.md`, `.srt`, or any export — one file or many |
 
-## What happens after you add files
+**Examples:** `Transscripts.txt`, `propagation-2025.txt`, `orchard-tour-oct-2025.txt`
 
-1. AI reads transcripts and updates `research/randall-voice-profile.md` (how Randall speaks).
-2. AI updates `research/youtube-content-notes.md` (facts and stories mapped to chapters).
-3. Book chapters are revised using **synthesized** notes only — not copied transcript text.
+---
+
+## What happens when you add files
+
+1. **Raw files stay here** — reference archive, not edited by the ghostwriter.
+2. **Index updated** — `research/youtube-transcript-index.md` logs every file.
+3. **Stories extracted** — `research/youtube-story-bank.md` (openings, closings, anecdotes).
+4. **Topic notes extracted** — `research/youtube-content-notes.md` (tagged STORY / VOICE / FACT-CANDIDATE).
+5. **Voice profile updated** — `research/randall-voice-profile.md` when new speech patterns appear.
+
+---
+
+## Important rules (locked June 4, 2026)
+
+| Transcripts ARE for… | Transcripts are NOT for… |
+|----------------------|-------------------------|
+| Personal stories and voice | Verified botanical/historical **facts** |
+| Chapter openings & closings | Overriding research when there's a conflict |
+| How Randall talks and what he's lived | Direct quotes pasted into the book |
+| "In my orchard…" **experience** | Universal claims without research backup |
+
+**When transcript and research disagree → research wins.**
+
+Full rules: `research/transcript-ingest-rules.md`
+
+---
 
 ## Privacy
 
-Transcripts may mention customers, locations, or off-the-cuff remarks. Only confirmed, book-appropriate content goes into the manuscript.
+Transcripts may mention customers, locations, or off-the-cuff remarks. Only book-appropriate, synthesized content goes into the manuscript.
 
 ---
 
