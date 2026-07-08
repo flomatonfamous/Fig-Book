@@ -5,89 +5,86 @@
 
 ---
 
-*[RANDALL'S OPENING: 2–4 sentences in your voice, a memory, observation, or moment from
-the orchard or nursery that sets up the "know your fig" theme. Could be a question a
-customer asked that surprised you, something you noticed in the orchard that made the
-biology click, or a moment when you realized how much most people don't know about what a
-fig actually is. Write what feels natural when you read through the chapter, you'll know
-it when you find it.]*
+*[DRAFT FROM TRANSCRIPT — Randall edit into your own words]*
+
+There's a window every morning during harvest season, right before the heat climbs. I walk
+the trees then. You check the neck droop, the color, give each fig a gentle squeeze. Most
+of what I've learned about how figs actually work, I learned right there in the early
+morning quiet. This chapter covers the stuff I wish somebody had told me before I had to
+figure it out myself.
 
 ---
 
 ## What Kind of Tree Is This?
 
-You might be surprised to learn that the common fig, *Ficus carica*, actually belongs to
-the mulberry family, which also includes breadfruit. Its native range stretches from
+You might be surprised to learn that the common fig, 'Ficus carica', actually belongs to
+the mulberry family, yea it's odd I know. Its native range stretches from
 western Asia through the eastern Mediterranean, covering modern-day Turkey, Iran, and the
-northern parts of Africa. People have been growing figs so long in so many places that
+northern parts of Africa, basically all around the Mediterranean Sea areas. People have been 
+growing figs so long in so many places that
 pinning down its exact origin is almost impossible. It adapted early and traveled far, and
 the version we grow in American backyards today is essentially the same tree that fed
 people in ancient countries thousands of years ago. The same fruit, biology, and the same
-wonderful flavors, now spread across the entire world by emigrants and collectors.
+wonderful flavors, now spread across the entire world by emigrants and collectors that have
+now landed in our very own backyards all across the world.
 
 In its natural form, the fig is a deciduous shrub or small tree, even one that can reach
 twenty to thirty feet if you leave it alone. In the South, fig trees tend to grow in a
 wide, multi-stemmed form rather than a single trunk, spreading outward as aggressively as
 upward. Left unmanaged, they'll happily take over a corner of the yard, which can be seen
-in old homesteads today. Most growers keep them pruned to something more manageable, but
-the tree wants to grow big and wide. This is not a passive tree.
+in old homesteads today, such as my grandparents house. Most growers keep them pruned to something more manageable, but
+the tree wants to grow big and wide. This is not a tree that you simple plant and forget.
 
 The leaves are unmistakable, even though patterns differ from variety to variety. Some
 have large, deeply lobed leaves with three to five fingers, and some have large
 spade-shaped leaves, but generally rough on top and slightly fuzzy underneath. They emerge
 bright green in spring, deepen through summer, and drop in fall or sometimes in the heat
 of summer. The shape of fig leaves is one of the most recognizable silhouettes in the
-plant world. With the large leaves, it's probably the reason it was one of the only trees
-to be mentioned by species in the book of Genesis and used as clothing.
+plant world. When people share pictures of their figs, they will often include a picture of 
+the leaf pattern so others can observe the leaf pattern with specific varieties.
 
-Figs are reliably hardy from Zone 7 south, with some varieties surviving Zone 6 with
-protection. They want heat, they want full sun, and they want well-drained soil. What
+Figs are reliably hardy from Zone 7 and south, with some varieties surviving Zone 6 if well protected.
+They want heat, full sun, and they want well-drained soil. What
 surprises most people is that despite loving summer heat, figs actually like to have a
-dormant period in winter. They're not tropical plants, they're Mediterranean plants. That
-distinction matters when you're figuring out how to grow them and how to protect them
-through the winter. A fig that never goes dormant won't perform the way it's supposed to.
-Container growers who keep trees in heated spaces year-round often wonder why production
-disappoints them, and this is a big part of the answer.
+dormant period in winter. They're not tropical plants, they're Mediterranean plants.
+A fig that never goes dormant won't perform the way it's supposed to.
+Container growers who keep trees in heated spaces year-round often wonder why they only get a few fruit 
+here and there, and this is a big part of the answer. Want more fruit, let them go dorment, even if only for a 
+short amount of time.
 
 **How fast do they grow?**
 
-In the right conditions, figs are quick. A well-rooted cutting planted in the ground in
-spring can put on four to six feet of new growth in its first full season in Zone 8 or
-warmer. That same cutting in a container will grow more slowly because root development
-and soil volume set the pace, but even in a five-gallon pot you can expect good growth
+In the right conditions figs grow quick. A well-rooted cutting planted in the ground in
+spring can put on four to six even eight feet of new growth in its first full season if it has a long growing season.
+That same cutting in a small container will grow more slowly because root development
+fertilizer, water, and soil volume determine the growth, but even in a five-gallon pot you can expect good growth
 and often a small first harvest within the first or second year.
 
 By the third year in the ground, most varieties in the South have established a root
 system solid enough to handle drought, heat, and moderate winter with minimal
-intervention. By year four or five, a well-managed in-ground fig tree in lower Alabama is
-a productive, mature tree. Reaching real production in two to three years is one of the
+intervention. By year four or five, a well-managed in-ground fig tree in my back yard is producing a nice amount of fruit.
+Reaching real production in two to three years is one of the
 reasons figs have always been a backyard staple in the South. You plant it one year and a
-few years later you're getting plenty to eat from it.
+few years later you're getting plenty to eat and maybe enough to make preserves or dry in the dehydrator.
 
 **How long do they live?**
 
-Under normal conditions, without periods of freezing temps into the teens or colder, a
-fig tree will outlive the grower who planted it. Backyard fig trees in the American South
-routinely reach fifty to a hundred years old. Old homesteads across Alabama, Georgia, and
+A fig tree will outlive the grower who planted it if it's protected from dieing back from things like winter damage.
+Backyard fig trees in the South routinely reach fifty to a hundred years old. Old homesteads across Alabama, Georgia, and
 Mississippi still have fig trees standing in yards where the house has long since fallen,
-torn down, or abandoned. Those trees don't need anyone to water them or feed them or pay
-attention to them, they keep growing and keep producing.
+torn down, or abandoned. Those trees don't need anyone to for them, they keep growing and keep producing.
 
-I know a tree about two miles from my orchard that's been doing exactly that for over a
-decade, standing in a yard, surrounded by brush, and still fruiting. Some fig trees are
+I know a tree about two miles from my orchard that's been doing exactly that for over two
+decades, standing in the yard surrounded by brush and still fruiting. Some fig trees are
 simply harder to kill than whatever was built around them. Understanding that kind of
-longevity changes how you think about planting one. A fig tree is not a seasonal
-experiment. It's something you put in the ground for the long run. So if you are
-considering one for your yard, imagine what it will grow to become in 20 to 30 years.
-After being established that long, you just don't dig it up and get rid of it. It develops
-a root system you can't ignore.
+longevity changes how you should think about where you plant one. Where ever you plant it just might end up being a permanent fixture.
+So if you are considering one for your yard, imagine what it will grow to become in 20 to 30 years.
+After being established that long, you just don't dig it up and get rid of it.
 
 **Root system**
 
-Figs are surface feeders. Their root system is relatively shallow and spreading, extending
-well beyond the drip line of the canopy. This matters for several practical reasons.
-
-In the ground, shallow roots mean figs intertwine, reaching for water and nutrients in the
+Figs are surface feeders. The root system is relatively shallow and spreading, extending
+well beyond the drip line of the canopy. Shallow roots mean figs intertwine, reaching for water and nutrients in the
 top layer of soil. They also make cultivation, hoeing, tilling, and digging near the base,
 something to do carefully. Disturbing the surface root zone stresses the tree and can
 trigger suckering at the base. A layer of mulch over the root zone is far better
@@ -165,9 +162,9 @@ The common fig varieties grown by backyard growers in the United States, includi
 virtually every variety in a typical collector's orchard, are parthenocarpic. That means
 they develop fruit without any pollination. No wasp required. No wasp involved. The fruit
 sets and ripens on its own. The biology driving your harvest has nothing to do with
-insects, except that figs do attract the ones you don't really want, fruit flies.
+insects, except that figs do attract the ones you don't really want — fruit flies.
 
-I have a few caprifigs in my collection, the Stripped Butler, LSU DC-6, and Capri-Q, and
+I have a few caprifigs in my collection — the Stripped Butler, LSU DC-6, and Capri-Q — and
 they're there for a specific reason. Caprifigs produce pollen, and for any grower
 experimenting with varieties that benefit from it, having a pollen source on hand is
 useful, and it changes the fig flavor but more on that later. Having a male fig is rarely
@@ -211,17 +208,30 @@ and when.
 
 In my orchard, LSU DC-6 is the first tree to give me figs every year. That first wave
 of fruit coming off the old wood in May or June, that's the breba crop doing its thing.
-I'll be honest, I don't spend much time chasing varieties known specifically for breba
-production, because to me the main crop just tastes better. But there are exceptions.
-Desert King, for instance, only ever makes a breba crop, and it's one of the best-tasting
-ones in my collection. Every rule has a fig that'll make you rethink it.
+I'll be honest, I don't chase varieties specifically for breba production, because to me
+the main crop just tastes better. But there are exceptions. Desert King only ever makes
+a breba crop, and it's one of the best-tasting figs in my collection. Every rule has a
+fig that'll make you rethink it.
+
+I also learned to read breba the hard way. I had a Dr. Gowaty fig, about eighteen inches
+tall, that put on three large figs early in the season. I figured they were just an early
+main crop because the tree was so small. When I went to check them I noticed there was no
+new leaf node, no fresh growth nearby. Those figs were sitting on last year's wood. Breba.
+Forty-seven grams on an eighteen-inch tree. The tree doesn't care how young it is. It
+just follows the wood.
+
+That kind of observation is what changed how I think about breba. I used to pay a lot
+less attention to it than I do now. Like a lot of growers in the South, I was mostly
+focused on the main crop. But once you start growing enough varieties side by side, you
+notice that some trees are worth keeping old wood on and some simply aren't. That's one
+reason I don't believe in giving every fig tree exactly the same pruning treatment.
 
 In colder climates where a fig gets cut to the ground by winter freezes, breba production
 is gone, because there's no old wood left to carry it. That's one of the real reasons
 winter protection of in-ground trees matters in borderline zones. Saving old wood isn't
 just about saving the tree. It's about keeping one of its two harvests.
 
-Knowing which wood produces which crop also shapes your pruning decisions. Heavy winter
+Knowing which wood produces which crop shapes your pruning decisions. Heavy winter
 pruning removes breba potential. Pruning that saves some old wood while encouraging new
 growth gives you the best shot at both crops. We'll get into the specifics in the growing
 chapter, but it's worth understanding the biology before you pick up a pruner.
@@ -260,9 +270,11 @@ that fig now. Not tomorrow. Now.
 Split figs are worth knowing about too. A small crack at the base of a very ripe fig,
 especially after rain, is common. Split figs are usually at peak flavor but they have a
 short window. Pick them and eat them that day. An open fig on the tree is an invitation
-for beetles and mold, and they will take you up on it fast. If you've got rain coming
-during harvest season, make it a habit to walk your trees every morning. You'll be glad
-you did.
+for beetles and mold, and they will take you up on it fast. If you know rain is coming
+and you've got figs showing all the signs of being close, go ahead and pick them. A fig
+that's a day away from perfect sitting through three days of steady rain isn't going to
+reward your patience. Walk the trees every morning during harvest season, and pay
+attention to the forecast.
 
 ---
 
@@ -345,6 +357,6 @@ channel, Flomaton Famous. Come take a look when you're ready.
 ---
 
 *Chapter 2 draft completed: May 26, 2026*
-*Status: DRAFT — Awaiting Randall's personal opening paragraph and review*
-*Personal opening placeholder marked above. One personal story slot marked in Breba section.*
+*Updated June 5, 2026: draft opening added (early morning harvest walk); Dr. Gowaty breba story added; rain/forecast harvest paragraph strengthened*
+*Status: DRAFT — Opening marked [DRAFT FROM TRANSCRIPT] — Randall to edit into his own words before approval*
 *Caprifig varieties confirmed by Randall: Stripped Butler, LSU DC-6, Capri-Q — update fig-varieties.md*

@@ -61,7 +61,7 @@
 
 | Rule | Detail |
 |------|--------|
-| **Prefer commas** | Set off clauses with commas. Avoid em-dashes in new drafting (Ch. 1 still has a few in narrative — do not add more). |
+| **Prefer commas** | Default to commas. Em-dashes allowed sparingly — max 2–3 per chapter — only for: (1) a pivot where a comma creates a splice, (2) a mid-sentence list needing visual separation, (3) a reveal at the end of a clause. Never for dramatic effect alone. Emotional/personal passages stay comma-driven. |
 | **No superlative adverbs** | Skip dramatically, remarkably, essentially, entirely, etc. |
 | **7th–8th grade level** | Plain words. Correct terms when needed, then plain explanation. |
 | **Colloquial grammar OK** | "could probably care less," "heard so much rave about," "some I like better than other" — match his looseness; fix only clear typos if he hasn't written that line himself. |

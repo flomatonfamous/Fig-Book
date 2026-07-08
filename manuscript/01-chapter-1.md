@@ -106,7 +106,7 @@ They established easily, grew large, and produced reliably year after year with 
 attention at all.
 
 Almost every old homestead had a fig tree somewhere in the yard. They weren't ornamental and they
-weren't a hobby, people used them for preserves and enjoyed them on hot biscuits on a cold winter morning.
+weren't a hobby — people used them for preserves and enjoyed them on hot biscuits on a cold winter morning.
 Figs were put up as preserves every summer, jarred
 in the heat of summer as the garden vegetables were finishing up and being stored. Nobody thought much about variety
 names or collection strategies. You had the tree you had, usually grown from a cutting

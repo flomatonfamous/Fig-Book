@@ -274,7 +274,7 @@
 | Sunrise (CA unknown) | Best grower in orchard; workhorse not mind-blowing taste | Experience |
 | Nebo | Workhorse producer; not excited about taste | Experience |
 | Cadum Ramada | Prettiest ornamental stripes; untasted | Experience |
-| Black Celeste | Fig at every node; community hype (Ross cited) | Confirm variety + taste |
+| Black Celeste | Fig at every node; community hype (Ross cited — **do not use Ross as source; Randall taste confirmation needed before Ch. 3**) | Confirm variety + taste |
 | Scott's Black | Very prolific; cold-snap concern from community | Experience |
 | Colonel Littman's Black Cross | 2+ years, no fruit; good air-layer parent | Experience |
 | Creme de la Fragola | Mosaic; may replace | Ch. 6 |

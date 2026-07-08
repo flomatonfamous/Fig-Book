@@ -185,7 +185,14 @@ create copyright issues or introduce inaccuracies.
    as book facts without verification. See `research/transcript-ingest-rules.md`.
 9. **No chapter is approved until Randall explicitly says so.** "Looks good" is not approval.
    The word "approved" or equivalent must appear in the conversation.
-10. **Credit all sources.** When information comes from a university extension service,
+10. **Do not use, paraphrase, or echo content from Ross the Figboss (YouTube or blog).**
+   Ross is a prominent fig community creator who reads Randall's content and may read this book.
+   Variety rankings, "top 10" lists, flavor descriptions, or educational framing that originates
+   with Ross must never appear in the manuscript, even paraphrased. If a claim in the research
+   notes says "community consensus" or "community hype" and could trace to Ross, attribute it
+   only as Randall's own experience or remove it. When a variety opinion appears in the story
+   bank, confirm it came from Randall's own videos — not from Ross or any other creator's content.
+11. **Credit all sources.** When information comes from a university extension service,
    research study, or published source, track the credit in the chapter's research notes
    and carry it into the Appendix sources section. Popular nonfiction attribution style —
    not academic citation format. Examples of how to credit:
@@ -218,18 +225,22 @@ create copyright issues or introduce inaccuracies.
 
 ## Chapter Workflow
 
-For every chapter:
+For every chapter — follow these steps in order. Do not skip any step.
+Reference files: `docs/chapter-dossier-template.md`, `research/repetition-log.md`,
+`research/source-ledger.md`, `research/terminology.md`, `STYLE_GUIDE.md`.
 
-| Step | Action |
-|------|--------|
-| 1 | Short summary of what the chapter should accomplish |
-| 2 | Ask Randall for personal stories, examples, or details to include |
-| 3 | Create a detailed chapter outline |
-| 4 | Wait for Randall's approval of the outline |
-| 5 | Draft the chapter |
-| 6 | Provide a short list of possible improvements or missing details |
-| 7 | Revise based on Randall's feedback |
-| 8 | Mark chapter APPROVED only when Randall explicitly says so |
+| Step | Action | Reference |
+|------|--------|-----------|
+| 1 | **Build the chapter dossier.** Fill out `docs/chapter-dossier-template.md` for this chapter. Include: mission, reader questions, key concepts, claims needing sources, available personal stories, what NOT to repeat (check `repetition-log.md`), terminology to use, section outline. | `docs/chapter-dossier-template.md` |
+| 2 | **Randall approves the dossier.** No prose is drafted until the dossier is approved. Ask about any personal story slots marked `[RANDALL'S STORY: topic]`. | Randall's explicit "approved" |
+| 3 | **Confirm research gaps are closed.** Any item flagged as a research gap in the dossier must be resolved first. Log any new factual claims in `research/source-ledger.md`. | `research/source-ledger.md` |
+| 4 | **Draft one section at a time.** Not the whole chapter at once. Context to load for every session: `PROJECT.md` + `STYLE_GUIDE.md` + `research/randall-voice-profile.md` + `research/terminology.md` + the chapter dossier + relevant research files + relevant story files + the previous chapter's final draft. | `STYLE_GUIDE.md` |
+| 5 | **Run Post-Draft Voice Check after each section.** Banned phrase scan → AI structure check → specificity check → rhythm check → read-aloud gate. Do not move to the next section until this passes. | `STYLE_GUIDE.md` — Post-Draft Voice Check |
+| 6 | **Randall reviews and revises.** Provide a short list of possible gaps or improvements. Revise based on feedback. | Randall's feedback |
+| 7 | **Run repetition check on complete chapter draft.** Compare against `research/repetition-log.md` and all previous chapter summaries. Flag any concept, story, or phrasing that has appeared before. | `research/repetition-log.md` |
+| 8 | **Verify all factual claims.** Every claim in the completed chapter must appear in `research/source-ledger.md` with at least Medium confidence. Any Low confidence claims must be resolved or removed before locking. | `research/source-ledger.md` |
+| 9 | **Lock the chapter.** Update `research/repetition-log.md` with all concepts and stories used. Update story status tags in `research/youtube-story-bank.md`. | `research/repetition-log.md` |
+| 10 | **Mark APPROVED in CHAPTER_LOG.md.** The word "approved" must appear explicitly in the conversation. "Looks good" is not approval. | `CHAPTER_LOG.md` |
 
 ---
 

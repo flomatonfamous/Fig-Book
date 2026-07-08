@@ -103,6 +103,7 @@
 | 3 | Is the polished opening (5 paragraphs) the right length, or do you want to expand it? | Chapter 1 length lock |
 | 4 | Personal origin story — what was your first fig you grew yourself, before the nursery? | Chapter 1 or 12 |
 | 5 | How do you want to handle the Flomaton Famous origin story — how formal or personal? | Chapter 12 |
+| 6 | ⚠️ **SUBTITLE DISCREPANCY — needs decision.** Two different subtitles are currently locked in this file: (A) *"A Complete Grower's Guide to Varieties, Propagation, Fertilizing, and Year-Round Care"* (Approved Book Elements table) vs. (B) *"History, Faith, Family, and Practical Growing from a Real Alabama Nursery"* (Locked Decisions table). Which is the correct, current subtitle? Lock one and remove the other. | Cover, title page, all marketing |
 
 ---
 
@@ -211,4 +212,19 @@
 
 ---
 
-*Last updated: June 5, 2026 — Session 10*
+### July 8, 2026 — Session 11
+- Workflow system build: added `research/source-ledger.md` (seeded with ~40 claims from Ch. 1 and Ch. 2)
+- Added `research/terminology.md` (canonical term usage for ~30 recurring terms)
+- Added `research/repetition-log.md` (Ch. 1 fully logged as approved; Ch. 2 logged as draft)
+- Added `docs/chapter-dossier-template.md` (11-section pre-draft checklist — use for every chapter)
+- Updated `STYLE_GUIDE.md` — added 5-step Post-Draft Voice Check routine
+- Updated `PROJECT.md` — chapter workflow expanded from 8 to 10 steps (dossier, source ledger, voice checks wired in)
+- Created `_book-template/` in project — generic reusable starter kit for future books
+- Exported standalone `Book Writing Template` to `C:\Users\white\Documents\Book Writing Template\`
+- Created Cursor rules: `.cursor/rules/fig-book-writing-system.mdc` (always-apply, project-level) and `C:\Users\white\.cursor\rules\nonfiction-book-template.mdc` (global, user-level)
+- Updated `research/fig-varieties.md` — LSU DC-6 and Capri-Q marked as caprifigs (confirmed Randall's Ch. 2 note)
+- ⚠️ **SUBTITLE DISCREPANCY FLAGGED** — see Open Questions below — needs Randall's decision before Ch. 3 dossier
+
+---
+
+*Last updated: July 8, 2026 — Session 11*

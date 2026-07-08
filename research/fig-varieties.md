@@ -37,6 +37,7 @@
 9. Croatian Dark (DTG)
 10. Green Ischia
 11. Stripped Butler *(caprifig — non-edible, used for pollination)*
+11a. Capri-Q *(caprifig — kept for pollen source; confirmed by Randall June 2026 — add to numbered list at next collection update)*
 12. Rubado
 13. Peters Honey
 14. De La Gloria
@@ -103,7 +104,7 @@
 75. Marseilles Black VS (MBVS)
 76. Black Zadar
 77. Col De Dame Ciutat
-78. LSU DC-6
+78. LSU DC-6 *(caprifig — kept for pollen source; confirmed by Randall June 2026)*
 79. LSU St. Gabriel
 80. St. Rita
 81. Black Celeste

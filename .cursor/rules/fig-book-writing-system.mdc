@@ -1,0 +1,53 @@
+---
+description: Fig-Book project rules — session startup, workflow, and voice protection for The Backyard Fig by Randall White
+alwaysApply: true
+---
+
+# The Backyard Fig — Writing System
+
+## Session Startup (Required Every Session)
+Read these files before doing anything else:
+1. `PROJECT.md` — book bible, locked decisions, 10-step chapter workflow
+2. `CHAPTER_LOG.md` — current approval status of all chapters
+3. `research/randall-voice-profile.md` — Randall's voice (load as context for all drafting)
+4. `STYLE_GUIDE.md` — writing rules + Post-Draft Voice Check routine
+5. `research/terminology.md` — canonical term usage across all chapters
+6. When drafting a chapter, also load: `research/repetition-log.md` + `research/source-ledger.md`
+
+## Project Structure
+- `PROJECT.md` — book bible, locked rules, chapter workflow
+- `STYLE_GUIDE.md` — voice rules, banned phrases, 5-step Post-Draft Voice Check
+- `CHAPTER_LOG.md` — chapter approval status and session log
+- `research/randall-voice-profile.md` — Randall's voice guide (LOAD FOR EVERY DRAFT SESSION)
+- `research/terminology.md` — canonical usage for recurring terms
+- `research/source-ledger.md` — claim → source → confidence → chapter tracking
+- `research/repetition-log.md` — concepts and stories used, by chapter
+- `research/youtube-story-bank.md` — personal stories from transcripts (tagged)
+- `research/youtube-content-notes.md` — fact-candidates and topic notes from transcripts
+- `research/transcript-ingest-rules.md` — rules for using personal content
+- `docs/chapter-dossier-template.md` — pre-draft checklist (fill one per chapter)
+- `manuscript/01-chapter-1.md` — APPROVED
+- `manuscript/02-chapter-2.md` — DRAFT (opening marked for Randall's edit)
+
+## The Non-Negotiable Rules
+- Never invent personal facts. If Randall hasn't confirmed it, mark `[RANDALL'S STORY: topic]` and ask.
+- Never draft a chapter without an approved dossier (`docs/chapter-dossier-template.md`).
+- No chapter is approved until Randall explicitly says "approved." "Looks good" is not approval.
+- YouTube transcripts → voice and stories only. Not factual sources without verification.
+- Do not use, paraphrase, or echo content from Ross the Figboss.
+- Chapter 1 is the canonical voice reference. When in doubt about voice, re-read it.
+
+## Per-Chapter Workflow (10 Steps)
+1. Build chapter dossier → 2. Randall approves dossier → 3. Close research gaps
+4. Draft one section at a time → 5. Post-Draft Voice Check after each section
+6. Randall reviews and revises → 7. Repetition check on full chapter
+8. Verify all claims in source-ledger.md → 9. Lock chapter, update repetition-log.md
+10. Mark APPROVED in CHAPTER_LOG.md
+
+## Voice Protection
+The five-step Post-Draft Voice Check lives in `STYLE_GUIDE.md`:
+1. Banned phrase scan (hedge qualifiers, politeness inflation, AI padding)
+2. AI structure check (break the intro→3 points→wrap-up pattern)
+3. Specificity check (flag anything that could be written about any plant by any author)
+4. Rhythm check (break even paragraph length deliberately)
+5. Read-aloud gate (if you wouldn't say it standing in the orchard, rewrite it)
